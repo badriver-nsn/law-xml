@@ -11,43 +11,35 @@
       <num>1100.1</num>
       <heading>Purpose</heading>
       <text>The Bad River Tribal Council may authorize the Tribe to offer health and/or disability insurance, including at its option, opting into the State of Wisconsin's Worker's Compensation system, to all full time employees, as defined in the Bad River Personnel and Policy Manual, of the Bad River Tribe, including it's enterprises.</text>
-      <annotations/>
     </section>
     <section>
       <num>1100.2</num>
       <heading>Exclusive Remedy</heading>
       <text>If the Tribe elects to offer health and disability benefits to Tribal Employees, such benefits shall be the sole and exclusive remedy for claims and compensation resulting from any work related injury or illness. If the Tribe elects to offer a comprehensive health insurance coverage to its employees for off-duty injury or illness, the benefits and coverage contained in the policy shall be the exclusive remedy for claims and compensation resulting for any non-work related injury or illness. If the Tribe opts not to offer health and/or disability insurance to its employees then there shall be no remedy available from the Tribe for injury sustained at the workplace.</text>
-      <annotations/>
     </section>
     <section>
       <num>1100.3</num>
       <heading>Index</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.1</num>
-      <heading>Purpose</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.2</num>
-      <heading>Exclusive Remedy</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.3</num>
-      <heading>Index</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.4</num>
-      <heading>Definitions</heading>
-      <annotations/>
-    </section>
-    <section>
-      <num>1100.5</num>
-      <heading>Conditions of Liability</heading>
-      <annotations/>
+      <para>
+        <num>(a)</num>
+        <text>1100.1		Purpose</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>1100.2		Exclusive Remedy</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>1100.3		Index</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>1100.4		Definitions</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>1100.5		Conditions of Liability</text>
+      </para>
     </section>
   </container>
 </container>

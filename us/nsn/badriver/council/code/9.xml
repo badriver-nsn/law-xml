@@ -11,7 +11,6 @@
       <num>901.1</num>
       <heading>Purpose</heading>
       <text>The purpose of this ordinance is to help provide employment for tribal members living on or near the reservation who may have skills as laborers, heavy machine operators or in other construction areas. Often times there are contracts given out for road, bridge and other types of construction in this area. The idea is to allow for our members participate in such jobs to enable them to be employed and to instill pride in their work on or near the reservation.</text>
-      <annotations/>
     </section>
     <section>
       <num>901.2</num>
@@ -36,7 +35,6 @@
         <num>(e)</num>
         <text>"Tribal Personnel Officer" refers to that person who is in charge of the Personnel Office.</text>
       </para>
-      <annotations/>
     </section>
     <section>
       <num>901.3</num>
@@ -49,12 +47,11 @@
         <num>(b)</num>
         <text>No contractor or subcontractor shall be deemed to have complied with subsection (a) above unless (1) they have a statement from the Tribal Personnel Officer stating that they have worked with the Personnel Office and (2) the statement sets forth whether or not there are qualified members of the Tribe to perform the job.</text>
       </para>
-      <annotations/>
     </section>
     <section>
       <num>901.4</num>
       <heading>Penalties/Forfeitures</heading>
-      <text>Violation of Section 901.3 of this ordinance shall be subject to the following:</text>
+      <text>Violation of <cite path="9|901|901.3">Section 901.3</cite> of this ordinance shall be subject to the following:</text>
       <para>
         <num>(a)</num>
         <text>Forfeiture not to exceed $500.00, or</text>
@@ -67,13 +64,11 @@
         <num>(c)</num>
         <text>Barred from receiving future contracts.</text>
       </para>
-      <annotations/>
     </section>
     <section>
       <num>901.5</num>
       <heading>Violation</heading>
       <text>All violations shall be tried in Tribal or Federal Court.</text>
-      <annotations/>
     </section>
   </container>
   <container>
@@ -105,13 +100,11 @@
           <text>Any organization which employs, or is about to employ any of the above, has or may foreseeably develop a financial or other interest in the firm or individual selected for award of the procurement or contract.</text>
         </para>
       </para>
-      <annotations/>
     </section>
     <section>
       <num>920.2</num>
       <heading>Gratuities or Positions of Employment or Monetary Interest</heading>
       <text>No officer, employee, committee member, or agent of the Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribe shall either solicit or accept gratuities, favors or anything of monetary value, including any position of employment or monetary interest from firms or contractors, potential firms or contractors, or parties to subcontracts.</text>
-      <annotations/>
     </section>
     <section>
       <num>920.3</num>
@@ -122,11 +115,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text><u>Tribal Council</u>. The Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribal Council may receive such other gifts as offered by a firm or contractor after completion of a contract where no promises of the gift has been given before completion, which if accepted will be retained by the Tribe in remembrance of a program or project. In addition to the limitation of gifts, the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of ten dollars [$10.00]) shall constitute a violation of this Chapter.</text>
+        <text><u>Tribal Council</u>. The Bad River Band of the Lake Superior Tribe of Chippewa Indians Tribal Council may receive such other gifts as offered by a firm or contractor after completion of a contract where no promises of the gift has been given before completion, which if accepted will be retained by the Tribe in remembrance of a program or project. In addition to the limitation of gifts, the acceptance of excessive or unusual entertainment, loans or other favors (valued in excess of ten dollars [$10.00]) shall constitute a violation of <cite path="9|920">this Chapter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text><u>Exceptions</u>. It shall not be a violation of this Chapter to accept the following so long as the acceptance does not influence or have the appearance of influencing the procurement or award of contracts:</text>
+        <text><u>Exceptions</u>. It shall not be a violation of <cite path="9|920">this Chapter</cite> to accept the following so long as the acceptance does not influence or have the appearance of influencing the procurement or award of contracts:</text>
         <para>
           <num>(1)</num>
           <text>Ceremonial gifts given according to traditional customs which are retained by the Tribe;</text>
@@ -148,7 +141,6 @@
           <text>Plaques or other similar items intended to memorialize or remember some program or project.</text>
         </para>
       </para>
-      <annotations/>
     </section>
     <section>
       <num>920.4</num>
@@ -162,7 +154,6 @@
         <num>(b)</num>
         <text>Any violation of this Code of Conduct by an employee of the Bad River Band of the Lake Superior Tribe of Chippewa Indian Community will be handled in accordance with the Personnel Policies and Procedures, Chapter XIV. Discipline, reprimand, suspension, or termination may result with respect to the seriousness of the violation.</text>
       </para>
-      <annotations/>
     </section>
   </container>
 </container>
