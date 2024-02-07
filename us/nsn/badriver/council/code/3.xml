@@ -11,11 +11,6 @@
       <num>300.01</num>
       <heading>Waste</heading>
       <text>No member shall unreasonably waste, injure destroy, or impair natural resources while engaging in the exercise of on-reservation hunting, fishing, trapping, or gathering rights, or in the disposition of any animal or plant taken in such exercise, whether such disposition is on-reservation or off-reservation, and whether such waste, injury, destruction or impairment is accomplished by act or by omission.</text>
-      <text>
-        <strong>
-          <em>(WASTE ENACTED BY RESOLUTION #10-3-90-148)</em>
-        </strong>
-      </text>
     </section>
     <section>
       <num>300.02</num>
@@ -28,31 +23,16 @@
         <num>(b)</num>
         <text>No non-member shall trespass for the purpose of hunting, fishing, trapping or gathering, snowmobiling, recreational vehicles, or any other activity on lands owned either by the Tribe, a tribal member, or the United States in trust for the Tribe or a tribal member.</text>
       </para>
-      <text>
-        <strong>
-          <em>(TRESPASS ENACTED BY RESOLUTION #1-18-91-164)</em>
-        </strong>
-      </text>
     </section>
     <section>
       <num>300.03</num>
       <heading>Tampering With Equipment of Another</heading>
       <text>No member shall molest, disturb, tamper with or in any way otherwise interfere with any hunting, fishing, trapping or gathering equipment or bait, used, set, or placed by another member without that member's permission.</text>
-      <text>
-        <strong>
-          <em>(TAMPERING ENACTED BY RESOLUTION #12-5-90-153)</em>
-        </strong>
-      </text>
     </section>
     <section>
       <num>300.4</num>
       <heading> - Endangered and Threatened Species</heading>
-      <text>No member shall take, transport, possess, process, or sell any plant or animal species contained on either the federal (50 CFR Sections 17.11 and 17.12) or the State of Wisconsin (Wis. Adm. Code NR 27.03) endangered or threatened species list, as may be amended from time to time, or any species which the Tribal Council may declare as endangered or threatened, and no tag as provided for in Chapter 305 shall be issued or affixed to the carcass or part thereof of any such species.</text>
-      <text>
-        <strong>
-          <em>(ENDANGERED SPECIES ENACTED BY RESOLUTION #1-18-91-162)</em>
-        </strong>
-      </text>
+      <text>No member shall take, transport, possess, process, or sell any plant or animal species contained on either the federal (50 CFR Sections 17.11 and 17.12) or the State of Wisconsin (Wis. Adm. Code NR 27.03) endangered or threatened species list, as may be amended from time to time, or any species which the Tribal Council may declare as endangered or threatened, and no tag as provided for in <cite path="3|305">Chapter 305</cite> shall be issued or affixed to the carcass or part thereof of any such species.</text>
     </section>
     <section>
       <num>300.50</num>
@@ -68,11 +48,6 @@
       <para>
         <num>(c)</num>
         <text>In addition to any other penalty herein, the Court may order a suspension or revocation of any or all hunting, fishing and gathering rights.</text>
-        <text>
-          <strong>
-            <em>(FORFEITURES ENACTED BY RESOLUTION #1-18-91-163)</em>
-          </strong>
-        </text>
       </para>
     </section>
   </container>
@@ -284,16 +259,6 @@
       <num>301.10</num>
       <heading> - Severability</heading>
       <text>Should any section of <cite path="3|301">this chapter</cite> be held to exceed the regulatory authority of the Tribe the remainder hereof shall not affected thereby.</text>
-      <text>
-        <strong>
-          <em>(HUNTING OF DEER-ENACTED BY RESOLUTION NO. 9-2-81-12</em>
-        </strong>
-      </text>
-      <text>
-        <strong>
-          <em>SUB<cite path="3|301|301.6|(B)">SECTION 301.6(B)</cite>AMENDED BY RES. NO. 11-19-95-107B)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -424,11 +389,6 @@
       <num>302.9</num>
       <heading>Severability</heading>
       <text>Should any section of <cite path="3|302">this chapter</cite> be held to exceed the regulatory authority of the Tribe, the remainder hereof shall not be affected thereby.</text>
-      <text>
-        <strong>
-          <em>(TAKING OF WALLEYE-ENACTED BY RESOLUTION NO. 9-2-81-92)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -494,11 +454,6 @@
       <num>303.6</num>
       <heading> - Mechanization Prohibited</heading>
       <text>No person shall use any mechanical means to harvest wild rice, nor shall any person operate any boat motor or engine within the rice fields.</text>
-      <text>
-        <strong>
-          <em>(AMENDED BY RESOLUTION NO. 10-7-81-26)</em>
-        </strong>
-      </text>
     </section>
     <section>
       <num>303.7</num>
@@ -523,11 +478,6 @@
         <num>(b)</num>
         <text>Any equipment used in violation of <cite path="3|303">this chapter</cite> may be seized by the Conservation Department and ordered forfeited.</text>
       </para>
-      <text>
-        <strong>
-          <em>(HARVESTING OF WILD RICE - ENACTED BY RESOLUTION NO. 9-2-81-12)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -578,11 +528,6 @@
         <num>(d)</num>
         <text>Tags for any species including fish may be withheld upon failure to pay the set forfeiture or with flagrant or multiple violations, tags will be withheld.</text>
       </para>
-      <text>
-        <strong>
-          <em>(CHAPTER 304 ENACTED BY RESOLUTION #12-3-86-11+9)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -686,11 +631,6 @@
         <num>(b)</num>
         <text>Any person violating <cite path="3|305|305.2">Section 305.2</cite> or <cite path="3|305|305.6">Section 305.6</cite> who has been previously found to have violated the same section or who is subsequently found have previously violated the same section shall be subject to a forfeiture of not more than $250.00.</text>
       </para>
-      <text>
-        <strong>
-          <em>(TAGGING-ENACTED BY RESOLUTION NO. 11-5-80-132/AMENDED BY RESOLUTION NO. 11-18-82-01)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -835,7 +775,7 @@
     </section>
     <section>
       <num>320.3</num>
-      <heading>– Seizure and Forfeiture</heading>
+      <heading>Seizure and Forfeiture</heading>
       <para>
         <num>(a)</num>
         <text>Any weapons and other implements used in a commission of a breach of this ordinance, and any game found in the possession of a person believed to be violating this ordinance may be seized immediately and impounded.</text>
@@ -847,7 +787,7 @@
     </section>
     <section>
       <num>320.4</num>
-      <heading>– Effective Date</heading>
+      <heading>Effective Date</heading>
       <text>This ordinance shall be posted for fifteen days at the Tribal Center and at the Conservation Office and shall become effective on January 31, 1981.</text>
       <text>Closed Deer Season - Enacted by Resolution No. 12-3-80-141/Amended by Resolution No. 7-1-81-200</text>
     </section>
@@ -1918,9 +1858,6 @@
       <num>323.42</num>
       <heading>Effective Date,</heading>
       <text>The provisions of this ordinance shall take effect thirty (30) days after the publication of this ordinance.</text>
-      <text>Made and passed by the Bad River Tribal Council on this</text>
-      <text>16<sup>th</sup> day of December, 2009</text>
-      <text>Resolution No. 12-16-09.138</text>
     </section>
   </container>
   <container>
@@ -2840,7 +2777,7 @@
       <heading>Tagging of Lean Lake Trout</heading>
       <para>
         <num>(a)</num>
-        <text>All lean lake trout of legal size taken by a commercial licensee (including a subsistence fisherman who intends to introduce the fish into commerce) shall be tagged in conformance with Chapter 305, Bad River Ordinances, except that where in conflict, the provisions of <cite path="3|325">this chapter</cite> supersede those of chapter 305.</text>
+        <text>All lean lake trout of legal size taken by a commercial licensee (including a subsistence fisherman who intends to introduce the fish into commerce) shall be tagged in conformance with <cite path="3|305">Chapter 305</cite>, Bad River Ordinances, except that where in conflict, the provisions of <cite path="3|325">this chapter</cite> supersede those of <cite path="3|305">chapter 305</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2932,7 +2869,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>All fish taken by a home use fisherman shall be tagged in conformance with Chapter 305, Bad River Ordinances, prior to transportation of the fish off of the reservation, except that where in conflict, the provisions of <cite path="3|325">this chapter</cite> supersedes those of Chapter 305.</text>
+        <text>All fish taken by a home use fisherman shall be tagged in conformance with <cite path="3|305">Chapter 305</cite>, Bad River Ordinances, prior to transportation of the fish off of the reservation, except that where in conflict, the provisions of <cite path="3|325">this chapter</cite> supersedes those of <cite path="3|305">Chapter 305</cite>.</text>
       </para>
     </section>
     <section>
@@ -3154,8 +3091,6 @@
       <text>------------------------------------------- x 1,000 = Effort Limitation for</text>
       <text>Season 3 CPE			Reallocated Home Use Fish</text>
       <text>The effort limitation for reallocated home use fish will then be allocated among individual licensees.</text>
-      <text><cite path="3|325">THIS CHAPTER</cite> 325 ENACTED BY RESOLUTION #3-7-84-59/AMENDED BY RESOLUTION 3-20-86-11/11-5-86- 79/REPEALED AND RECREATED BY RESOLUTION #8-16-90-132</text>
-      <text>AMENDED BY RESOLUTION #1-10-07-13</text>
     </section>
   </container>
   <container>
@@ -3606,8 +3541,6 @@
         <num>(b)</num>
         <text>over any action arising from the implementation of <cite path="3|326">this chapter</cite>.</text>
       </para>
-      <text><cite path="3|326">THIS CHAPTER</cite> 326 ENACTED BY RESOLUTION #5-8-85-179/REENACTED BY RESOLUTION 1-18-91-161</text>
-      <text>Amended by Resolution #1-10-07-14</text>
     </section>
   </container>
   <container>
@@ -3619,15 +3552,15 @@
       <heading>Commercial Fishing Vessel Safety Regulations</heading>
       <para>
         <num>(a)</num>
-        <text>Purpose and applicability. The purpose of <cite path="3|327">this Chapter</cite> 327 is to protect members engagement in commercial fishing activities pursuant to the rights reserved by the Tribe in the Treaty of 1842, 7 Stat. 591, and the Treaty of 1854, 10 Stat. 1109. The provisions of <cite path="3|327">this Chapter</cite> 327 apply to any vessel engaged in commercial fishing activities in Lake Superior that is owned or operated by a tribal member who possesses a commercial fishing license or permit from the Tribe. No member shall fail to comply with any requirement set forth in <cite path="3|327">this Chapter</cite> 327.</text>
+        <text>Purpose and applicability. The purpose of this <cite path="3|327">Chapter 327</cite> is to protect members engagement in commercial fishing activities pursuant to the rights reserved by the Tribe in the Treaty of 1842, 7 Stat. 591, and the Treaty of 1854, 10 Stat. 1109. The provisions of this <cite path="3|327">Chapter 327</cite> apply to any vessel engaged in commercial fishing activities in Lake Superior that is owned or operated by a tribal member who possesses a commercial fishing license or permit from the Tribe. No member shall fail to comply with any requirement set forth in this <cite path="3|327">Chapter 327</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Relationship to Agreement with Coast Guard. <cite path="3|327">This Chapter</cite> 327 shall be construed consistent with the purposes and provisions of the proposed Memorandum of Understanding between the Bad River Band of the Lake Superior Tribe of Chippewa Indians and the United States Coast Guard, as may be amended from time to time, should the Memorandum of Understanding be ratified by the Tribe. Upon its ratification, the Memorandum of Understanding shall be incorporated by reference herein as if set forth in its entirety.</text>
+        <text>Relationship to Agreement with Coast Guard. This <cite path="3|327">Chapter 327</cite> shall be construed consistent with the purposes and provisions of the proposed Memorandum of Understanding between the Bad River Band of the Lake Superior Tribe of Chippewa Indians and the United States Coast Guard, as may be amended from time to time, should the Memorandum of Understanding be ratified by the Tribe. Upon its ratification, the Memorandum of Understanding shall be incorporated by reference herein as if set forth in its entirety.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Definitions. For the purposes of <cite path="3|327">this Chapter</cite> 327, the following terms mean:</text>
+        <text>Definitions. For the purposes of this <cite path="3|327">Chapter 327</cite>, the following terms mean:</text>
         <para>
           <num>(1)</num>
           <text>"Commercial Fishing Vessel" or "Vessel"- A boat owned or operated by a tribal member that is that engaged in commercial fishing activities under tribal license or permit. "Commercial Fishing Activities" - Any activity undertaken while a tribal</text>
@@ -3656,7 +3589,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Purpose of Inspection. The purpose of the inspections is to ensure that commercial fishing vessels are in compliance with the requirements of <cite path="3|327">this Chapter</cite> 327. The inspections may also ensure the vessels are in compliance with the requirements of Coast Guard regulations that go beyond the specific provisions of <cite path="3|327">this Chapter</cite> 327. The Bad River Conservation Department shall develop n inspection form that is designed to obtain the information necessary to achieve these purposes.</text>
+        <text>Purpose of Inspection. The purpose of the inspections is to ensure that commercial fishing vessels are in compliance with the requirements of this <cite path="3|327">Chapter 327</cite>. The inspections may also ensure the vessels are in compliance with the requirements of Coast Guard regulations that go beyond the specific provisions of this <cite path="3|327">Chapter 327</cite>. The Bad River Conservation Department shall develop n inspection form that is designed to obtain the information necessary to achieve these purposes.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -3667,11 +3600,11 @@
         <text>Mandatory Dockside Inspections. A vessel must be inspected:</text>
         <para>
           <num>(1)</num>
-          <text>Within the first 12 months after the effective date of <cite path="3|327">this Chapter</cite> 327 and at least once every 24 months thereafter;</text>
+          <text>Within the first 12 months after the effective date of this <cite path="3|327">Chapter 327</cite> and at least once every 24 months thereafter;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Any time the member wishes to seek an exemption from one of the requirements of <cite path="3|327">this Chapter</cite> 327 in accordance with the provisions of §1.02, below;</text>
+          <text>Any time the member wishes to seek an exemption from one of the requirements of this <cite path="3|327">Chapter 327</cite> in accordance with the provisions of §1.02, below;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3692,7 +3625,7 @@
       <heading>Exemptions</heading>
       <para>
         <num>(a)</num>
-        <text>Exemption Requests. During any inspection, a member may request an exemption from any requirement of <cite path="3|327">this Chapter</cite> 327. The inspection form shall indicate that an exemption request has been made and the inspector shall promptly notify the Bad River Conservation Department of the request.</text>
+        <text>Exemption Requests. During any inspection, a member may request an exemption from any requirement of this <cite path="3|327">Chapter 327</cite>. The inspection form shall indicate that an exemption request has been made and the inspector shall promptly notify the Bad River Conservation Department of the request.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3700,7 +3633,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Issuing An Exemption. A Coast Guard exemption constitutes a tribal exemption. If the Coast Guard does not grant the requested exemption, there is no exemption from the requirements of <cite path="3|327">this Chapter</cite> 327.</text>
+        <text>Issuing An Exemption. A Coast Guard exemption constitutes a tribal exemption. If the Coast Guard does not grant the requested exemption, there is no exemption from the requirements of this <cite path="3|327">Chapter 327</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3708,7 +3641,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Complying With an Exemption. A vessel must be operated in compliance with the requirements and conditions of an exemption. Any violation of an exemption is a violation of <cite path="3|327">this Chapter</cite> 327.</text>
+        <text>Complying With an Exemption. A vessel must be operated in compliance with the requirements and conditions of an exemption. Any violation of an exemption is a violation of this <cite path="3|327">Chapter 327</cite>.</text>
       </para>
     </section>
     <section>
@@ -3941,11 +3874,11 @@
       <heading>Jurisdiction, Enforcement and Penalties</heading>
       <para>
         <num>(a)</num>
-        <text><u>Tribal Court Jurisdiction.</u> Jurisdiction over all matters arising under <cite path="3|327">this Chapter</cite> 327 shall be with the tribal court which shall adjudicate in accordance with the Tribal Court Code all questions, complaints and alleged violations involving the provisions of <cite path="3|327">this Chapter</cite> 327.</text>
+        <text><u>Tribal Court Jurisdiction.</u> Jurisdiction over all matters arising under this <cite path="3|327">Chapter 327</cite> shall be with the tribal court which shall adjudicate in accordance with the Tribal Court Code all questions, complaints and alleged violations involving the provisions of this <cite path="3|327">Chapter 327</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Enforcement. The Tribal Conservation Department is empowered to enforce the provisions of <cite path="3|327">this Chapter</cite> 327.</text>
+        <text>Enforcement. The Tribal Conservation Department is empowered to enforce the provisions of this <cite path="3|327">Chapter 327</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -3961,7 +3894,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Stop and board any commercial fishing vessel and auxiliary boats or vessels for the purposes of determining its compliance with requirements of <cite path="3|327">this Chapter</cite> 327 or if the person reasonably suspects there is a violation or breach of <cite path="3|327">this Chapter</cite> 327;</text>
+        <text>Stop and board any commercial fishing vessel and auxiliary boats or vessels for the purposes of determining its compliance with requirements of this <cite path="3|327">Chapter 327</cite> or if the person reasonably suspects there is a violation or breach of this <cite path="3|327">Chapter 327</cite>;</text>
       </para>
       <para>
         <num>(g)</num>
@@ -3997,7 +3930,7 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>Penalties. The penalties for violating a section of <cite path="3|327">this Chapter</cite> 327 shall be as follows:</text>
+        <text>Penalties. The penalties for violating a section of this <cite path="3|327">Chapter 327</cite> shall be as follows:</text>
       </para>
       <para>
         <num>(p)</num>
@@ -4128,7 +4061,6 @@
           <text>both (a) and (b) above.</text>
         </para>
       </para>
-      <text><cite path="3|330">This CHAPTER</cite> 330 ENACTED BY RESOLUTION #2-5-86-2</text>
     </section>
   </container>
   <container>
@@ -4138,7 +4070,7 @@
     <section>
       <num>331.1</num>
       <heading>Definitions</heading>
-      <text>Terms used in <cite path="3|331">this chapter</cite> shall have the same meaning as in Chapter 330.</text>
+      <text>Terms used in <cite path="3|331">this chapter</cite> shall have the same meaning as in <cite path="3|330">Chapter 330</cite>.</text>
     </section>
     <section>
       <num>331.2</num>
@@ -4361,11 +4293,6 @@
         <num>(c)</num>
         <text>Neither the imposition of a penalty as provided for above, nor satisfaction of the terms of such penalty, shall constitute a waiver or release from any additional civil or criminal liabilities, including but not limited to liability for damages to natural resources.</text>
       </para>
-      <text>
-        <strong>
-          <em>Legislative History: 	Chapter 327 The Bad River Sloughs Protection Ordinance was originally enacted in its entirety on February 4, 1998 by Tribal Council Resolution Number 2-4-98-114. The ordinance was amended by Tribal Council Resolution Number __________ as follows: The ordinance was renumbered to Chapter 340 and sections 327.7 and 327.9(b) (now 340.7 and 340.9(b) respectively) were amended to include the Bad River Police Department.</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -4733,11 +4660,6 @@
       <num>350.20</num>
       <heading>Penalties</heading>
       <text>For any violation of <cite path="3|350">this chapter</cite>, the Court may assess a forfeiture of not more than $50 for the first offense and not more the $100 upon conviction of the same offense a second or subsequent time within one year.</text>
-      <text>
-        <strong>
-          <em>(Chapter 350 Enacted By Resolution #4-22-88-152/Repealed and Reenacted By Resolution #5-2-90-109)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -4745,13 +4667,9 @@
     <num>351</num>
     <heading>Snowmobile Registration</heading>
     <section>
-      <num>351.1</num>
+      <num>351.1.1</num>
       <heading>Purpose</heading>
       <text>The purpose of <cite path="3|351">this chapter</cite> is to provide for snowmobile owner and operator safety, safety of community members, wildlife and property, by the setting of standards for safe operation of snowmobiles operated by any person, both member and non-member, and identification by requiring tribal registration of all snowmobiles operated by tribal members within the Bad River Reservation.</text>
-    </section>
-    <section>
-      <num>351.2</num>
-      <heading>Registration</heading>
     </section>
     <section>
       <num>351.2.1</num>
@@ -4863,10 +4781,6 @@
       </para>
     </section>
     <section>
-      <num>351.3</num>
-      <heading>Safe Operation</heading>
-    </section>
-    <section>
       <num>351.3.1</num>
       <heading>Operation of Snowmobiles on or in the Vicinity of Highways and Roadways</heading>
       <para>
@@ -4953,8 +4867,7 @@
     <section>
       <num>351.3.2</num>
       <heading>Right-of-way</heading>
-      <text>The operator of a snowmobile shall slow the vehicle to a speed not to exceed 10 miles per hour and yield the right-of CHAPTER 360 - DOG CONTROL</text>
-      <text>-way when traveling within 100 feet of a person who is not in or on a snowmobile.</text>
+      <text>The operator of a snowmobile shall slow the vehicle to a speed not to exceed 10 miles per hour and yield the right-of-way when traveling within 100 feet of a person who is not in or on a snowmobile.</text>
     </section>
     <section>
       <num>351.3.3</num>
@@ -4985,10 +4898,10 @@
       </para>
     </section>
     <section>
-      <num>3513.4</num>
+      <num>351.3.4</num>
       <heading>General Safety Provisions</heading>
       <para>
-        <num>(b)</num>
+        <num>(a)</num>
         <text>Right-of-Way: The following individuals shall have the right-of-way over snowmobiles at all times and all locations.</text>
         <para>
           <num>(1)</num>
@@ -5040,7 +4953,11 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>On the frozen surface of public waters within 100 feet of a person not in or upon a vehicle or within 100 feet of a fishing shanty at a rate of speed exceeding 10 miles per hour. (9) On a playground, slide, ski, skating or other non-motorized recreation area except for the purpose of servicing the area, responding to emergencies, crossing at places where marked or after stopping and yielding the right-of-way, but only for the purpose of crossing, access or exit to or from a dwelling, lodging or other building when no other route is safe or feasible, and at no time of day or night at a speed exceeding 10 miles per hour when within 150 feet of these areas.</text>
+          <text>On the frozen surface of public waters within 100 feet of a person not in or upon a vehicle or within 100 feet of a fishing shanty at a rate of speed exceeding 10 miles per hour.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>On a playground, slide, ski, skating or other non-motorized recreation area except for the purpose of servicing the area, responding to emergencies, crossing at places where marked or after stopping and yielding the right-of-way, but only for the purpose of crossing, access or exit to or from a dwelling, lodging or other building when no other route is safe or feasible, and at no time of day or night at a speed exceeding 10 miles per hour when within 150 feet of these areas.</text>
         </para>
         <para>
           <num>(10)</num>
@@ -5057,16 +4974,14 @@
       <heading>Head Lamps, Tail Lamps, Brakes and Mufflers</heading>
       <para>
         <num>(a)</num>
-        <text>Any snowmobile operated anywhere and at anytime within the boundaries of the</text>
+        <text>Any snowmobile operated anywhere and at anytime within the boundaries of the Reservation shall display a lighted head lamp and tail lamp.</text>
       </para>
-      <text>Reservation shall display a lighted head lamp and tail lamp.</text>
       <para>
         <num>(b)</num>
-        <text>Every snowmobile shall be equipped with at least one brake operated either by hand</text>
+        <text>Every snowmobile shall be equipped with at least one brake operated either by hand or foot, capable of bringing the snowmobile to a stop, under normal conditions, within 40 feet when traveling at a speed of 20 miles per hour with a 150 pound driver on a level, hard-packed snow surface. The design shall permit simple and easy adjustment to compensate for wear. There shall be no other control linked to the brake which impairs braking operation.</text>
       </para>
-      <text>or foot, capable of bringing the snowmobile to a stop, under normal conditions, within 40 feet when traveling at a speed of 20 miles per hour with a 150 pound driver on a level, hard-packed snow surface. The design shall permit simple and easy adjustment to compensate for wear. There shall be no other control linked to the brake which impairs braking operation.</text>
       <para>
-        <num>(a)</num>
+        <num>(c)</num>
         <text>No snowmobile shall be operated unless it is equipped with a muffler in good working order, which blends the exhaust noise into the overall engine noise and is in constant operation to prevent excessive or unusual noise. No snowmobile shall be modified by any person in any manner that shall amplify or otherwise increase total noise emission above that emitted by the snowmobile as originally constructed, regardless of date of manufacture.</text>
       </para>
     </section>
@@ -5083,19 +4998,19 @@
         <heading>PERSONS UNDER 12.</heading>
         <text>No person under the age of 12 years may operate a snowmobile at any time, except when all of the following circumstances are present:</text>
         <para>
-          <num>(3)</num>
+          <num>(1)</num>
           <text>Such person under the age of 12 years is operating a "toy" or child size snowmobile which has a governor control which prevents it from exceeding speeds of 8 miles per hour;</text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(2)</num>
           <text>the child is wearing a helmet;</text>
         </para>
         <para>
-          <num>(5)</num>
+          <num>(3)</num>
           <text>The child is at all times supervised by a parent, legal guardian or individual over the age of 18 years; and</text>
         </para>
         <para>
-          <num>(6)</num>
+          <num>(4)</num>
           <text>all other sections of this ordinance are being complied with.</text>
         </para>
       </para>
@@ -5125,10 +5040,6 @@
       <text>All persons operating or riding on a snowmobile and on devices attached to a snowmobile within the boundaries of the Bad River Reservation shall wear an approved snowmobile safety helmet properly secured at all times the snowmobile is in motion.</text>
     </section>
     <section>
-      <num>351.4</num>
-      <heading>Driving or Harassing Animals and Damaging Plant Life/Area Closure</heading>
-    </section>
-    <section>
       <num>351.4.1</num>
       <heading>Driving or Harassing Animals, Birds, or Fish</heading>
       <para>
@@ -5153,10 +5064,6 @@
       </para>
     </section>
     <section>
-      <num>351.5</num>
-      <heading>Trails, Routes, Snowmobile Races, and Derbies</heading>
-    </section>
-    <section>
       <num>351.5.1</num>
       <heading>Trails</heading>
       <text>The Tribal Council may adopt by resolution designated snowmobile trails for the purpose of recreation, subject to any limitations for use imposed by the Tribal Council in its designating resolution and subject to the following conditions:</text>
@@ -5178,7 +5085,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>All users of the snowmobile trail shall comply with all safety and operation regulations set out in <cite path="3|351">this Chapter</cite> 351 and any trail use limitations set out by the Tribal Council in its trail designating resolution, and shall comply with all posted safety and operation signs.</text>
+        <text>All users of the snowmobile trail shall comply with all safety and operation regulations set out in this <cite path="3|351">Chapter 351</cite> and any trail use limitations set out by the Tribal Council in its trail designating resolution, and shall comply with all posted safety and operation signs.</text>
       </para>
     </section>
     <section>
@@ -5220,7 +5127,7 @@
       <text>All snowmobile competing in a sanctioned race or derby shall be equipped with a device wired into the motor's electrical system that will shut off the motor if the operator falls from the snowmobile or otherwise leaves the operator's position. The device shall be capable of being attached to the body of the operator and shall be so attached when the snowmobile is being operated.</text>
     </section>
     <section>
-      <num>351.6</num>
+      <num>351.6.1</num>
       <heading>Enforcement</heading>
       <para>
         <num>(a)</num>
@@ -5232,7 +5139,7 @@
       </para>
     </section>
     <section>
-      <num>351.7</num>
+      <num>351.7.1</num>
       <heading>Parties to a violation</heading>
       <para>
         <num>(a)</num>
@@ -5256,14 +5163,9 @@
       </para>
     </section>
     <section>
-      <num>351.8</num>
+      <num>351.8.1</num>
       <heading>Adjudication</heading>
       <text>Any violation of <cite path="3|351">this chapter</cite> shall be prosecuted in Tribal Court. Violations of this ordinance shall be adjudicated in the Bad River Tribal Court pursuant to the rules and procedures promulgated in the Bad River Tribal Court Code.</text>
-    </section>
-    <section>
-      <num>351.9</num>
-      <heading>Penalties, Seizure and Damages</heading>
-      <text>For any violation of <cite path="3|351">this chapter</cite>, the court may assess a forfeiture of not more than $250.00.</text>
     </section>
     <section>
       <num>351.9.1</num>
@@ -5283,9 +5185,9 @@
       </para>
     </section>
     <section>
-      <num>351.10</num>
+      <num>351.10.1</num>
       <heading>Definitions</heading>
-      <text><u>Definitions</u>. As used in <cite path="3|351">this chapter</cite>, the following terms, shall be defined as follows:</text>
+      <text>As used in <cite path="3|351">this chapter</cite>, the following terms, shall be defined as follows:</text>
       <para>
         <num>(a)</num>
         <text>"Accompany" means to be on the same snowmobile as the operator.</text>
@@ -5378,25 +5280,12 @@
         <num>(w)</num>
         <text>"Tribal Court" shall mean the court of the Bad River Band of the Lake Superior Tribe of Chippewa Indians and its appellate court.</text>
       </para>
-      <text>
-        <strong>
-          <em>History</em>
-        </strong>
-        <em>: This history is a summary of amendments to the ordinance and is for reference purposes only. Amendments of December 4, 2002; Title is changed to reflect safety provisions added to what were previously registration only provisions by adding the language "AND SAFETY." <cite path="3|351|351.1">Section 351.1</cite> is changed to include language regarding the safety of the community, wildlife, and property, as well as the setting of standards for safe operation by adding the language "safety of community members, wildlife and property by the setting of standards for safe operation of snowmobiles operated by any person, both member and non-member." A new section heading is created under 351.2 entitled "Registration" and old sections 351.2 through 351.9 are renumbered as 351.2.1 through 351.2.9 respectively. Subsection (d) has been added to new 351.2.2 to exclude the trail pass requirement from the registration exemption. Old Sections 351.4 and 351.5 have been renumbered as 351.2.4 and the fee amount as 351.2.4(a), changed the fee from $12 to $5 and has been reworded to read that Owners who lose or destroy certificates or decals must re-apply for an original at a cost of $5. Old <cite path="3|351|351.5|(b)">Section 351.5(b)</cite> and (c) have been renumbered to new <cite path="3|351|351.2.4|(c)">section 351.2.4(c)</cite>. Old <cite path="3|351|351.5|(d)">Section 351.5(d)</cite> has been deleted and replaced by the language in new <cite path="3|351|351.2.8">section 351.2.8</cite> and now includes language regarding the proper disposal of fluids, batteries, and snowmobiles. Old <cite path="3|351|351.6">Section 351.6</cite> has been renumbered to 351.2.5 and 351.6(b) has been deleted. Old <cite path="3|351|351.7">Section 351.7</cite> has been renumbered to 351.2.6 and the language "on both sides of the cowling" added. The language beginning with the words "Decals shall... has been deleted. New <cite path="3|351|351.2.6">Section 351.2.6</cite> now includes the language "Until the registration decals are received from the Department." Old <cite path="3|351|351.8">Section 351.8</cite> has been renumbered to 351.2.7 and the language changed to be gender inclusive. Old <cite path="3|351|351.9">Section 351.9</cite> has been-numbered to 351.2.9 and the "the Bad River Police Department" has been added to the list of entities supplied copies. Old <cite path="3|351|351.9|(c)">Section 351.9(c)</cite> has been deleted in its entirety.</em>
-      </text>
-      <text>
-        <em>Sections 351.3 to 351.5.6 are new sections. Old <cite path="3|351|351.13">Section 351.13</cite> has been renumbered and renamed as 351.9. Penalties, Seizure and Damges, and new sections 351.9.1 have been added to clarify <cite path="3|351|351.10">this section</cite>, set out new forfeitures, and change the previous maximum forfeiture from $250 to $500. Old <cite path="3|351|351.10">Section 351.10</cite> has been re-numbered as 351.6 and "the Bad River Police Department" has been added as an authorized enforcement entity and the reference to old <cite path="3|351|351.10|(a)">section 351.10(a)</cite> has been deleted and changed to new <cite path="3|351|351.6|(a)">section 351.6(a)</cite> and language changed to include "any operators" rather than only members. Old sections 351.10 through 351.14 are re-numbered as 351.6 through 351.10 respectively. New definitions numbers 351.10(b) through (f), (h), (j) through (l), (m), (o), and (a) through (t) have been added, and former definitions have been re-numbered as follows: 351.14(b) to (g), (d) to (m), (e) to (p) and (f) to (u).</em>
-      </text>
     </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>352</num>
     <heading>All Terrain Vehicle Registration, Safety and Operation Standards (Atv)</heading>
-    <section>
-      <num>352.1</num>
-      <heading>PURPOSE AND APPLICABILITY</heading>
-    </section>
     <section>
       <num>352.1.1</num>
       <heading>Purpose</heading>
@@ -5406,10 +5295,6 @@
       <num>352.1.2</num>
       <heading>Applicability</heading>
       <text>The <cite path="3|352|352.2">Section 352.2</cite> of <cite path="3|352">this chapter</cite> shall apply to all Tribal member owners of ATV's located within the boundaries of the Bad River Reservation. All remaining sections of this ordinance shall apply to all owners and operators, whether Tribal members or non-members, within the boundaries of the Bad River Reservation.</text>
-    </section>
-    <section>
-      <num>352.2</num>
-      <heading>REGISTRATION</heading>
     </section>
     <section>
       <num>352.2.1</num>
@@ -5500,10 +5385,6 @@
       <num>352.2.8</num>
       <heading>Change of Address</heading>
       <text>Whenever the owner of a registered ATV changes their address, they shall, within 15 days thereafter, notify the Department in writing of their new address and of the registration numbers on any vehicles registered under <cite path="3|352">this Chapter</cite>. At the same time, they shall write their new address on their registration certificate.</text>
-    </section>
-    <section>
-      <num>352.3</num>
-      <heading>RULES OF OPERATION</heading>
     </section>
     <section>
       <num>352.3.1</num>
@@ -5671,10 +5552,6 @@
       <text>Go-Carts: Go-Carts shall only be operated on specifically designated go-cart recreational facilities or on fee land owned or managed by the operator or his or her immediate family.</text>
     </section>
     <section>
-      <num>352.4</num>
-      <heading>General Safety Rules</heading>
-    </section>
-    <section>
       <num>352.4.1</num>
       <heading>Passengers and Age of Operators and Passengers</heading>
       <para>
@@ -5748,17 +5625,9 @@
       </para>
     </section>
     <section>
-      <num>352.5</num>
-      <heading>This section is reserved for future use</heading>
-    </section>
-    <section>
-      <num>352.6</num>
+      <num>352.6.1</num>
       <heading>Right of Way</heading>
       <text>The operator of an ATV shall slow the vehicle to a speed not to exceed 10 miles per hour and yield the right-of-way when traveling within 100 feet of a person who is not in or on a ATV.</text>
-    </section>
-    <section>
-      <num>352.7</num>
-      <heading>Restricted Areas</heading>
     </section>
     <section>
       <num>352.7.1</num>
@@ -5786,7 +5655,7 @@
       </para>
     </section>
     <section>
-      <num>352.8</num>
+      <num>352.8.1</num>
       <heading>Enforcement of this Chapter</heading>
       <para>
         <num>(a)</num>
@@ -5798,13 +5667,9 @@
       </para>
     </section>
     <section>
-      <num>352.9</num>
+      <num>352.9.1</num>
       <heading>Adjudication</heading>
       <text>Violations of this ordinance shall be adjudicated in the Bad River Tribal Court pursuant to the rules and procedures promulgated in the Bad River Tribal Court Code.</text>
-    </section>
-    <section>
-      <num>352.10</num>
-      <heading>Penalties</heading>
     </section>
     <section>
       <num>352.10.1</num>
@@ -5833,10 +5698,6 @@
       <text>Neither the imposition of a penalty as provided for above, nor satisfaction of the terms of such penalty, shall constitute a waiver or release from any additional civil or criminal liabilities, including but not limited to liability for damages to natural resources.</text>
     </section>
     <section>
-      <num>352.11</num>
-      <heading>Information Exchange</heading>
-    </section>
-    <section>
       <num>352.11.1</num>
       <heading>To State of Wisconsin</heading>
       <text>Pursuant to the Tribe's ATV Reciprocal Registration Agreement with the State of Wisconsin, the Department shall on the first working day of each month, or more frequently, supply copies of all registration certificates, including renewals, and changes of address and transfers to the Wisconsin Department of Natural Resources, and the Wisconsin Department of Transportation and the Ashland County Sheriff's Department. Each such agency shall receive current registration information upon request made to the Department.</text>
@@ -5847,13 +5708,9 @@
       <text>The Department shall provide to any qualifying applicant who properly completes a registration application and pays the fee required, a receipt of approved application to be used as proof of registration pending delivery to the applicant of the registration and registration decals.</text>
     </section>
     <section>
-      <num>352.12</num>
+      <num>352.12.1</num>
       <heading>Natural Resource/Conservation Code Ordinance</heading>
       <text>This shall be considered a natural resources/conservation code ordinance for the definition of such under the Tribal Code.</text>
-    </section>
-    <section>
-      <num>352.13</num>
-      <heading>Definitions</heading>
     </section>
     <section>
       <num>352.13.1</num>
@@ -6213,11 +6070,6 @@
       <num>360.13</num>
       <heading>Effective Date</heading>
       <text>This ordinance is effected beginning 8:00 a.m., June 26, 1999.</text>
-      <text>
-        <strong>LEGISLATIVE HISTORY</strong>
-      </text>
-      <text>_______________________________________________</text>
-      <text>Adopted by Resolution # 8-05-92-142. Repealed &amp; new code adopted 6-18-96-20 Amended by Resolution # 2-23-99-248; Amended by Resolution #6-25-99-300</text>
     </section>
   </container>
   <container>
@@ -6450,11 +6302,11 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Computers and Computer Accessories: Recycling and Solid Waste Department shall be contacted after options in <cite path="3|375|375.7|(d)">sec. 375.7(d)</cite>9. A. are exhausted to arrange for proper pick-up or drop-off and handling. A fee to cover Department costs of recycling Computers and Computer Accessories may be charged.</text>
+          <text>Computers and Computer Accessories: Recycling and Solid Waste Department shall be contacted after options in <cite path="3|375|375.7|(d)|(9)">sec. 375.7(d)(9)</cite>. A. are exhausted to arrange for proper pick-up or drop-off and handling. A fee to cover Department costs of recycling Computers and Computer Accessories may be charged.</text>
         </para>
         <para>
           <num>(10)</num>
-          <text>.	A Disposers of Computers and Computer Accessories shall, prior to recycling them through the Bad River Recycling and Solid Waste Department, attempt to reuse or recycle the computer through reuse, donation, resale, materials exchange, or through a computer recycler. Information on material exchange or computer recyclers may be obtained from the Bad River Recycling and Solid Waste Department.</text>
+          <text>A Disposers of Computers and Computer Accessories shall, prior to recycling them through the Bad River Recycling and Solid Waste Department, attempt to reuse or recycle the computer through reuse, donation, resale, materials exchange, or through a computer recycler. Information on material exchange or computer recyclers may be obtained from the Bad River Recycling and Solid Waste Department.</text>
         </para>
       </para>
       <para>
@@ -6530,16 +6382,6 @@
       <num>375.10</num>
       <heading>Severability and Non-Liability</heading>
       <text>If any section, provision, or portion of <cite path="3|375">this chapter</cite> is adjudged unconstitutional or invalid by a court of competent jurisdiction, the remainder of <cite path="3|375">this Chapter</cite> will not be affected thereby. The Tribe declares there is no liability on the part of the Tribe, its agencies, or employees for damages that may occur as a result of reliance upon or conformance with <cite path="3|375">this Chapter</cite>. The Tribe, by adoption of <cite path="3|375">this Chapter</cite>, does not waive sovereign immunity in any respect.</text>
-      <text>
-        <strong>
-          <em>(CHAPTER 375 ENACTED BY RESOLUTION #10-5-90-146</em>
-        </strong>
-      </text>
-      <text>
-        <strong>
-          <em>AMENDED BY RESOLUTION #6-13-00-425)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -6984,7 +6826,6 @@
         <num>(c)</num>
         <text>Citizen suit damages are separate from and may be in addition to and may duplicate any damages requested by the tribe under <cite path="3|376|376.13">this Section</cite>.</text>
       </para>
-      <text><strong><em>Legislative History:</em></strong><cite path="3|376">this chapter</cite> 376 was enacted as a new chapter in the Bad River Conservation Code in its entirety on __________ by Tribal Council Resolution Number ________________.</text>
     </section>
   </container>
 </container>

@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library"
-  xmlns:cache="https://open.law/schemas/cache"
-  xmlns:citations="https://open.law/schemas/citations"
-  xmlns:macro="https://open.law/schemas/macro"
-  xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:codified="https://open.law/schemas/codified"
-  xmlns:codify="https://open.law/schemas/codify"
-  xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
   <prefix>Title</prefix>
   <num>1</num>
   <heading>Tribal Court Code</heading>
@@ -47,8 +39,7 @@
     <heading>Definitions</heading>
     <section>
       <num>102.1</num>
-      <text>As used in this code, the following terms shall have the meanings given to them in <cite path="1|102|102.1">this section</cite>.
-      </text>
+      <text>As used in this code, the following terms shall have the meanings given to them in <cite path="1|102|102.1">this section</cite>.</text>
       <para>
         <num>(a)</num>
         <text>"Bad River Reservation" shall mean all lands and waters regardless of ownership within the exterior boundaries of the reservation as designated in the Treaty of 1854 between the Chippewa Indians of Lake Superior and the Mississippi, and the United States, 10 Stat. 1109, and any lands or water or interests therein which may be held or acquired outside the reservation by or on behalf of the Band.</text>
@@ -95,7 +86,7 @@
       </para>
       <para>
         <num>(l)</num>
-        <text>"Appellate Court" or "Court of Appeals" shall mean the Court established by <cite path="1|103|103.9">Section 103.9</cite>, with procedures established by Chapter 121.</text>
+        <text>"Appellate Court" or "Court of Appeals" shall mean the Court established by <cite path="1|103|103.9">Section 103.9</cite>, with procedures established by <cite path="1|121">Chapter 121</cite>.</text>
       </para>
       <para>
         <num>(m)</num>
@@ -187,11 +178,6 @@
     <section>
       <num>104.6</num>
       <text>It shall be the duty of the court to judge all cases brought before it.</text>
-      <text>
-        <strong>
-          <em>(CHAPTER 104 AMENDED BY RESOLUTION #2-6-91-167)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -352,11 +338,6 @@
       <para>
         <num>(d)</num>
         <text>Any other type of case may be commenced as otherwise provided for by ordinance.</text>
-        <text>
-          <strong>
-            <em>(CHAPTER 110 AMENDED BY RESOLUTION #2-6-91-167)</em>
-          </strong>
-        </text>
       </para>
     </section>
   </container>
@@ -383,11 +364,6 @@
     <section>
       <num>111.5</num>
       <text>The court may provide notice to any party appearing in open court of any subsequent proceeding by orally so informing the party in which case the minutes shall reflect such notice or by causing written notice to be hard served upon the party in open court.</text>
-      <text>
-        <strong>
-          <em>(CHAPTER 111 AMENDED BY RESOLUTION #2-6-91-167)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -413,8 +389,7 @@
     <heading>Initial Appearance</heading>
     <section>
       <num>113.1</num>
-      <text>
-        <cite path="1|113">This Chapter</cite> applies to initial appearance in civil actions brought by the Tribe of violations of ordinances.</text>
+      <text><cite path="1|113">This Chapter</cite> applies to initial appearance in civil actions brought by the Tribe of violations of ordinances.</text>
     </section>
     <section>
       <num>113.2</num>
@@ -462,11 +437,6 @@
         <num>(e)</num>
         <text>If the defendant stands mute, the court shall enter a denial and set a date for trial.</text>
       </para>
-      <text>
-        <strong>
-          <em>(CHAPTER 113 AMENDED BY RESOLUTION #2-6-91-67)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -790,7 +760,7 @@
     </section>
     <section>
       <num>118.2</num>
-      <text>Court processing of, and proceedings concerning juveniles shall be as provided in Chapter 125, Bad River Ordinance.</text>
+      <text>Court processing of, and proceedings concerning juveniles shall be as provided in <cite path="1|125">Chapter 125</cite>, Bad River Ordinance.</text>
     </section>
   </container>
   <container>
@@ -834,15 +804,13 @@
       <text>
         <u>Comment</u>
       </text>
-      <text>
-        <cite path="1|121">This chapter</cite> does not establish the structure of the Tribe's Court of Appeals. The appellate court is established and structured by other tribal law. See. <cite path="1|121|121.4|(b)">Sec. 121.4(b)</cite>, below.</text>
+      <text><cite path="1|121">This chapter</cite> does not establish the structure of the Tribe's Court of Appeals. The appellate court is established and structured by other tribal law. See. <cite path="1|121|121.4|(b)">Sec. 121.4(b)</cite>, below.</text>
       <text>Comments such as this one follow many sections of <cite path="1|121">this chapter</cite>. They are not part of the chapter but are furnished as guides to understanding the chapter. The Tribal Court and the Court of Appeals may use these comments to the extent they deem appropriate.</text>
     </section>
     <section>
       <num>121.2</num>
       <heading>Authority</heading>
-      <text>
-        <cite path="1|121">This chapter</cite> is adopted pursuant to Art. VI, Sec. 1(q), of the Constitution of the Tribe.</text>
+      <text><cite path="1|121">This chapter</cite> is adopted pursuant to Art. VI, Sec. 1(q), of the Constitution of the Tribe.</text>
       <text>
         <strong>Section - 121.3 - Repeal of Inconsistent Ordinances</strong>
       </text>
@@ -857,7 +825,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"Court of Appeals" means the Tribe's appellate court as established by Chapter 119, Bad River Ordinances.</text>
+        <text>"Court of Appeals" means the Tribe's appellate court as established by <cite path="1|119">Chapter 119</cite>, Bad River Ordinances.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -886,39 +854,22 @@
       <para>
         <num>(b)</num>
         <text>The jurisdiction of the Court of Appeals shall include the authority to determine the constitutionality of acts of the Tribal Council.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>Subsection (a) safeguards the authority of the Court of Appeals to perform its review function without interference from other governmental agencies either before or after it has acted.</text>
-        <text>Subsection (b) establishes the authority of the Court of Appeals to review the constitutionality of Tribal Council acts of whatever nature. Because tribal constitutions do not typically provide for a separation of powers between the judiciary and the other functions of the government, some question may be raised as to the implicit authority of the courts to review the acts of tribal government. Whatever the correct answer is to that question, this subsection delegates whatever authority is necessary to perform such review.</text>
       </para>
     </section>
     <section>
       <num>121.6</num>
       <heading>One Form of Review</heading>
       <text>There shall be one form of review in the Court of Appeals, to be designated an appeal.</text>
-      <text>
-        <u>Comment</u>
-      </text>
-      <text>This ordinance provides the only method of obtaining review in the Court of Appeals. <cite path="1|121|121.6">This section</cite> eliminates any argument that any Anglo-American common law writs may be pursued for extraordinary relief</text>
     </section>
     <section>
       <num>121.7</num>
       <heading>Who May Appeal</heading>
       <text>Any party aggrieved by a decision of the Tribal Court may initiate an appeal.</text>
-      <text>
-        <u>Comment</u>
-      </text>
-      <text>Only a party in the case below, who is in some way harmed by the decision below, may appeal.</text>
     </section>
     <section>
       <num>121.8</num>
       <heading>What May Be Appealed</heading>
       <text>Any final judgment or order of the Tribal Court may be appealed to the Court of Appeals. A final judgment or order is one which disposes of all issues in litigation between at least two parties to a case.</text>
-      <text>
-        <u>Comment</u>
-      </text>
-      <text>All final judgments and orders may be appealed. Nothing but a final judgment or order may be appealed. If an order in a case leaves other matters to be decided, and does not completely settle all disputed issues between the parties, so that the Tribal Court still has work to do, then the order is not final and an appeal cannot be filed. In cases involving multiple parties, an order or judgment may dispose of all issues between two or more of the parties, and would therefore be appealable. In cases involving multiple issues, an order disposing of one or more issues may leave others as yet unresolved and would therefore not be appealable.</text>
     </section>
     <section>
       <num>121.9</num>
@@ -934,11 +885,6 @@
       <para>
         <num>(c)</num>
         <text>Failure to file a notice of appeal as provided in <cite path="1|121|121.9">this section</cite> deprives the Court of Appeals of subject matter jurisdiction in the appeal.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>The appeal is started by filing the notice of appeal, a simple form for which a model is provided as Official Form no. 1. A party other than the initial appellant may decide to appeal in light of the initial appellant's appeal and is therefore allowed additional time to do so after service of the first notice of appeal. The interest of parties in the security of judgments entered by the court requires that an appeal must be filed within the time prescribed or be forever waived. Calculation of time is prescribed by <cite path="1|121|121.17">Sec. 121.17</cite>. Proper methods of service are prescribed by <cite path="1|121|121.18">Sec. 121.18</cite>.
-        </text>
       </para>
     </section>
     <section>
@@ -947,10 +893,6 @@
       <para>
         <num>(a)</num>
         <text>A notice of appeal shall be filed by any party seeking review of a final judgment or order of the Tribal Court. The notice of appeal shall be filed and served, together with the request for transcript required by <cite path="1|121|121.10|(c)">section 121.10(c)</cite>, within the time prescribed by <cite path="1|121|121.9">sec. 121.9</cite> of this ordinance. The notice of appeal shall bear the caption and case number of the case in the Tribal Court and shall be labeled "Notice of Appeal." The notice of appeal shall identify by date, judge, and case number the judgment or order appealed, and shall state the substance of the judgment or order and whether the appellant appeals from the entirety of the judgment or order or from only part thereof, and if the latter, shall specify the part thereof. The notice of appeal shall also include a brief statement of the grounds for appeal and shall specify the precise relief sought. No appeal shall be dismissed for any formal defects in the notice of appeal as long as the matter appealed is clearly identified and filing and service are timely and properly made. If a notice of appeal does not contain every item required by this subsection, the Court of Appeals may make such orders as the interests of justice require.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>The essence of the notice of appeal is to give fair notice to the other parties that what would otherwise be a final disposition of a case will not be final, and to allow the other parties to begin preparation for responding to the appeal or for filing a cross-appeal. The notice of appeal provided for in <cite path="1|121|121.10">this section</cite> also requires a statement of the grounds for appeal and the relief sought, in the event an appellant appearing pro Se elects not to file a brief. Any party including in the notice of appeal the items listed in this subsection will be deemed to have clearly identified the matter appealed. A notice of appeal that fails to include all of the items listed in this subsection may cause the Court to expand the time for response, dismiss the appeal, or make other appropriate orders.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -970,13 +912,7 @@
       <heading>Clerical Functions Upon Filing of Appeal</heading>
       <para>
         <num>(a)</num>
-        <text>Upon receipt of the notice of appeal, filing fee, and request for transcript, the Clerk of the Tribal Court shall forward to the Clerk of the Court of Appeals the notice of appeal and filing fee and shall prepare the record on appeal. The record on appeal shall consist of all papers filed by the parties or the court, and the transcript requested by appellant or any other party, unless limited by stipulation of the parties.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>The Court of Appeals will receive the entire Tribal Court written record, and a transcript of the trial or hearings that pertain to the appeal, unless the parties agree that the Court need not have the entire record.</text>
-        <text>Any party requesting a transcript may be charged the per page rate provided at <cite path="1|121|121.19">Sec. 121.19</cite>.
-        </text>
+        <text>Upon receipt of the notice of appeal, filing fee, and request for transcript, the Clerk of the Tribal Court shall forward to the Clerk of the Court of Appeals the notice of appeal and filing fee and shall prepare the record on appeal. The record on appeal shall consist of all papers filed by the parties or the court, and the transcript requested by appellant or any other party, unless limited by stipulation of the parties. Any party requesting a transcript may be charged the per page rate provided at <cite path="1|121|121.19">Sec. 121.19</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1012,12 +948,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Oral argument may be permitted in the discretion of the Court. Whether argument is allowed, and if so the length of argument allowed, shall be set by the panel of the</text>
-        <text>Court of Appeals hearing the appeal.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>The above rules are considered the minimum necessary for allowing the Court of Appeals to conduct its business in an efficient and just fashion. Briefing rules are purposely looser than in other jurisdictions to allow non-lawyers to represent themselves, or if otherwise permitted by the rules of the Tribal Court (see <cite path="1|121|121.20">sec. 121.20</cite>), to represent others. Briefs are made optional, in recognition that some parties appearing pro Se may not wish to file briefs but may rather wish to present their cases solely in oral argument. The notice of appeal (see <cite path="1|121|121.10|(a)">Sec. 121.10(a)</cite>) accordingly requires a short statement of the grounds for appeal and of the relief sought. A party may or may not be disadvantaged by failure to file a brief.</text>
+        <text>Oral argument may be permitted in the discretion of the Court. Whether argument is allowed, and if so the length of argument allowed, shall be set by the panel of the Court of Appeals hearing the appeal.</text>
       </para>
     </section>
     <section>
@@ -1095,11 +1026,6 @@
       <para>
         <num>(l)</num>
         <text>The Court of Appeals shall not substitute its judgment for that of the Tribal Court on a matter committed to the discretion of the Tribal Court.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>The standard of review defines the relationship between the trial court and the appeals court. The standard of review seeks to allocate to each court that part of the judicial work which it can best do. The trial court is in the best position to weigh the evidence and assess witness credibility and is therefore sustained on such matters unless its findings are clearly erroneous. The trial court is in no better position to interpret the law than the appeals court; in fact, the appeals court has the luxury of being able to analyze the law away from the heat of trial and can better perform this task itself. The appeals court can therefore look at questions of law afresh and need not defer at all to the trial court. Discretionary questions by their nature, can result in different decisions when put to different decision makers. The function of the appeals court in reviewing a discretionary decision is not to itself decide the result it would choose, but to determine whether the trial court in fact exercised discretion and made a decision based on the applicable facts and law. The exercise of discretion is more than bald decision making and it is the task of the appeals court to see that the appropriate process was followed.</text>
-        <text>Specific instances of common standard of review problems are listed in <cite path="1|121|121.14">this section</cite>; for instance the definition of sentencing as a discretionary determination. These instances are not exclusive. The Tribal Council may provide by ordinance and the courts by decision the classification of other matters as factual, legal, or discretionary.</text>
       </para>
     </section>
     <section>
@@ -1116,10 +1042,6 @@
       <para>
         <num>(c)</num>
         <text>If the Tribal Court fails to make findings of fact, the Court of Appeals may affirm the judgment if the record supports it, reverse if the record does not support it, or remand for findings and conclusions.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>In order for the appeals court to properly perform its review function, it must have an adequate basis for understanding the trial court's decision.</text>
       </para>
     </section>
     <section>
@@ -1140,12 +1062,6 @@
       <para>
         <num>(d)</num>
         <text>No facts not in the trial record may be presented in any manner to the Court of Appeals.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>Subsections (a) and (d) preserve the basic function of the appeals court as a court of review, not a court of initial determination. The trial court should have the first opportunity to consider all issues in litigation and to see as only it can do that the record is fully developed.</text>
-        <text>Subsection (b) protects the court and parties from expending energy on issues that an appellant has no intention of pursuing.</text>
-        <text>Subsection (c) states the principle that a court will not decide issues over which there is no current controversy. The controversy that existed during trial may be dispelled by the time of appeal. The exception to this rule is the type of case that may occur again but is likely never to survive long enough to receive appellate review. For instance, an individual may wish to challenge a court's suspension of his hunting and fishing rights for a period of three months, but by the completion of the appellate briefing schedule the suspension would be ended and the case moot. Since the issue could recur, but would always become moot before it was ready for decision, the mootness doctrine would be set aside.</text>
       </para>
     </section>
     <section>
@@ -1191,10 +1107,6 @@
       <para>
         <num>(c)</num>
         <text>The Tribal Court may order the waiver of the fees provided for in <cite path="1|121|121.19">this section</cite>, upon the filing of a sufficient affidavit of indigency.</text>
-        <text>
-          <u>Comment</u>
-        </text>
-        <text>Fees are necessary to partially defray the costs of court operations and to discourage frivolous appeals. Fees should not however prevent an appellant who cannot afford them from filing an arguably meritorious appeal. Official Forms 2 and 3 prescribe the substance of a sufficient affidavit of indigency and an order waiving fees.</text>
       </para>
     </section>
     <section>
@@ -1211,15 +1123,6 @@
       <num>121.22</num>
       <heading>Frivolous Appeals</heading>
       <text>The Court of Appeals may in its discretion order a party, his or her attorney, or both, filing or pursuing a frivolous appeal, to pay the costs and reasonable attorney fees incurred by the other party or parties in responding to the appeal.</text>
-      <text>
-        <u>Comment</u>
-      </text>
-      <text>Law is developed by appeals cases which push against the limits of previously accepted doctrine. <cite path="1|121|121.22">This section</cite> should not be lightly applied, or used in such a way that arguably meritorious appeals are discouraged. Frivolousness may be found, however, when an appeal is grounded neither on existing law nor on a good faith argument for extension, modification, or reversal of existing law.</text>
-      <text>
-        <strong>
-          <em>(CHAPTER 121 AMENDED BY RESOLUTION #4-22-88-88-148/2-24-89-24)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -1234,8 +1137,7 @@
     <section>
       <num>122.2</num>
       <heading>Authority</heading>
-      <text>
-        <cite path="1|122">This chapter</cite> is adopted pursuant to Art. VI, sec. 1(q), of the Constitution of the Tribe.</text>
+      <text><cite path="1|122">This chapter</cite> is adopted pursuant to Art. VI, sec. 1(q), of the Constitution of the Tribe.</text>
     </section>
     <section>
       <num>122.3</num>
@@ -1256,8 +1158,7 @@
     <section>
       <num>122.4</num>
       <heading>Relationship to Other Chapters</heading>
-      <text>The procedures set forth in <cite path="1|122">this chapter</cite> are the exclusive procedures for litigation of claims as described in <cite path="1|122|122.5">Section 122.5</cite>. Chapter 121 (Appeals) shall apply to proceedings under <cite path="1|122">this chapter</cite>. Chapter 150-156 (Evidence) shall only apply as provided in <cite path="1|122|122.9">Section 122.9</cite>. All provisions of chapters 101-120 not inconsistent with <cite path="1|122">this chapter</cite> shall apply to proceedings under <cite path="1|122">this chapter</cite>.
-      </text>
+      <text>The procedures set forth in <cite path="1|122">this chapter</cite> are the exclusive procedures for litigation of claims as described in <cite path="1|122|122.5">Section 122.5</cite>. <cite path="1|121">Chapter 121</cite> (Appeals) shall apply to proceedings under this chapter. <cite path="1|150">Chapter 150</cite>-156 (Evidence) shall only apply as provided in <cite path="1|122|122.9">Section 122.9</cite>. All provisions of chapters 101-120 not inconsistent with <cite path="1|122">this chapter</cite> shall apply to proceedings under <cite path="1|122">this chapter</cite>.</text>
     </section>
     <section>
       <num>122.5</num>
@@ -1272,8 +1173,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>If a counterclaim or cross complaint for more than $3,000.00 is filed which does not arise out the same transaction or occurrence that is the subject of the original claim the court shall dismiss without prejudice the counterclaim or cross complaint and the action shall proceed under <cite path="1|122">this chapter</cite>.
-        </text>
+        <text>If a counterclaim or cross complaint for more than $3,000.00 is filed which does not arise out the same transaction or occurrence that is the subject of the original claim the court shall dismiss without prejudice the counterclaim or cross complaint and the action shall proceed under <cite path="1|122">this chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1285,8 +1185,7 @@
       <heading>Starting an Action</heading>
       <para>
         <num>(a)</num>
-        <text>An action under <cite path="1|122">this chapter</cite> is commenced by the filing of a summons and complaint as prescribed by <cite path="1|122|122.6">this section</cite>.
-        </text>
+        <text>An action under <cite path="1|122">this chapter</cite> is commenced by the filing of a summons and complaint as prescribed by <cite path="1|122|122.6">this section</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1330,8 +1229,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The Clerk of Court may not accept for filing any summons and complaint that does not bear the dated signature of the plaintiff or plaintiff's attorney, or that is not accompanied by the filing fee and, if applicable, the mailing fee, as required by <cite path="1|122|122.12">sec. 122.12</cite>.
-        </text>
+        <text>The Clerk of Court may not accept for filing any summons and complaint that does not bear the dated signature of the plaintiff or plaintiff's attorney, or that is not accompanied by the filing fee and, if applicable, the mailing fee, as required by <cite path="1|122|122.12">sec. 122.12</cite>.</text>
       </para>
     </section>
     <section>
@@ -1360,8 +1258,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Written pleadings shall not substitute for personal appearance or appearance by attorney on the return date. Failure of any party to appear may result in judgment as provided in <cite path="1|122|122.10">Section 122.10</cite>.
-        </text>
+        <text>Written pleadings shall not substitute for personal appearance or appearance by attorney on the return date. Failure of any party to appear may result in judgment as provided in <cite path="1|122|122.10">Section 122.10</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1389,7 +1286,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Proceedings under <cite path="1|122">this chapter</cite> shall not be governed by the rules of evidence except those related to privilege under chapter 152. The court shall admit all evidence having reasonable probative value but may exclude irrelevant or repetitious evidence or argument. An essential finding of fact may not be based on oral hearsay unless it would be admissible under chapter 155.</text>
+        <text>Proceedings under <cite path="1|122">this chapter</cite> shall not be governed by the rules of evidence except those related to privilege under <cite path="1|152">chapter 152</cite>. The court shall admit all evidence having reasonable probative value but may exclude irrelevant or repetitious evidence or argument. An essential finding of fact may not be based on oral hearsay unless it would be admissible under <cite path="1|155">chapter 155</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1461,8 +1358,7 @@
         <text>The prevailing party in an action under <cite path="1|122">this chapter</cite> may recover the following costs, which shall be added to the judgment.</text>
         <para>
           <num>(1)</num>
-          <text>All fees paid under <cite path="1|122|122.12">sec. 122.12</cite>.
-          </text>
+          <text>All fees paid under <cite path="1|122|122.12">sec. 122.12</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1497,7 +1393,7 @@
     </section>
     <section>
       <num>123A.2</num>
-      <text>Proceedings for the recovery of a civil remedial money penalty shall be instituted by the issuance of a citation by an enforcing officer. Whenever an enforcing officer has reasonable basis to believe that a person subject to tribal authority has committed a breach of a tribal ordinance which provides for a civil remedial money penalty, such officer shall issue a citation to such person, serve a copy of same as provided in Chapter 111 hereof, and file a copy with the tribal court. The issuance of a citation by an enforcing officer in connection with a breach of an ordinance is adequate process to give the tribal court jurisdiction over the person upon the filing with the court of such citation.</text>
+      <text>Proceedings for the recovery of a civil remedial money penalty shall be instituted by the issuance of a citation by an enforcing officer. Whenever an enforcing officer has reasonable basis to believe that a person subject to tribal authority has committed a breach of a tribal ordinance which provides for a civil remedial money penalty, such officer shall issue a citation to such person, serve a copy of same as provided in <cite path="1|111">Chapter 111</cite> hereof, and file a copy with the tribal court. The issuance of a citation by an enforcing officer in connection with a breach of an ordinance is adequate process to give the tribal court jurisdiction over the person upon the filing with the court of such citation.</text>
     </section>
     <section>
       <num>123A.3</num>
@@ -1605,7 +1501,7 @@
     </section>
     <section>
       <num>123B.4</num>
-      <text>If the owner of the property is known, the summons, complaint and notice of hearing on an order to seize shall be served on the owner as provided in Chapter 111 hereof. If the owner of the property is unknown or cannot be located, service shall be made by posting in the central tribal office and the Tribal Rights Protection office and by publication once in a newspaper of general circulation in Ashland County. An affidavit of publication and posting shall be filed with the tribal court.</text>
+      <text>If the owner of the property is known, the summons, complaint and notice of hearing on an order to seize shall be served on the owner as provided in <cite path="1|111">Chapter 111</cite> hereof. If the owner of the property is unknown or cannot be located, service shall be made by posting in the central tribal office and the Tribal Rights Protection office and by publication once in a newspaper of general circulation in Ashland County. An affidavit of publication and posting shall be filed with the tribal court.</text>
     </section>
     <section>
       <num>123B.5</num>
@@ -1710,8 +1606,7 @@
       <text>The civil remedial forfeiture remedies governed by <cite path="1|123">this chapter</cite> are not mutually exclusive, nor shall they be the sole and exclusive remedies of the tribe for breach of its ordinances. Nothing in <cite path="1|123">this chapter</cite> shall restrict or curtail the right of the tribe to prosecute or seek the criminal prosecution of any defendant or owner or to institute a civil action for damages in any court against a defendant or owner. In addition to the civil remedies provided in <cite path="1|123">this chapter</cite>, the tribal court may order a defendant or owner to perform or refrain from performing such acts as may be necessary fully to protect the tribe, its members, its property, or its natural resources. The tribal court may order abatement of a nuisance, restoration of natural resource, or other appropriate action designed to eliminate or minimize damage caused by a defendant or owner. The tribal court may, where provided by ordinance, revoke or suspend any or all tribal permits, licenses or privileges.</text>
       <para>
         <num>(a)</num>
-        <text>Except as specifically provided in <cite path="1|123|123C.3">this section</cite>, a civil remedial forfeiture not to exceed $1,000 may be assessed against any person for breach of any provision of <cite path="1|123">this chapter</cite>.
-        </text>
+        <text>Except as specifically provided in <cite path="1|123|123C.3">this section</cite>, a civil remedial forfeiture not to exceed $1,000 may be assessed against any person for breach of any provision of <cite path="1|123">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1735,8 +1630,7 @@
     <section>
       <num>124.2</num>
       <heading> - Authority</heading>
-      <text>
-        <cite path="1|124">This chapter</cite> is adopted pursuant to Art. VI, Sec. 1(q) of the Tribe's constitution.</text>
+      <text><cite path="1|124">This chapter</cite> is adopted pursuant to Art. VI, Sec. 1(q) of the Tribe's constitution.</text>
     </section>
     <section>
       <num>124.3</num>
@@ -1759,8 +1653,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>"Tenant at will" means any tenant holding the permission of his landlord without a valid lease and under circumstances not involving periodic payment of rent; but a person holding possession of real property under a contract of purchase or an employment contract is not a tenant under <cite path="1|124">this chapter</cite>.
-        </text>
+        <text>"Tenant at will" means any tenant holding the permission of his landlord without a valid lease and under circumstances not involving periodic payment of rent; but a person holding possession of real property under a contract of purchase or an employment contract is not a tenant under <cite path="1|124">this chapter</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -1774,9 +1667,7 @@
     <section>
       <num>124.4</num>
       <heading>Relationship to Other Laws</heading>
-      <text>
-        <cite path="1|124">This chapter</cite> provides minimum rights, obligations, remedies, and procedures. Other rights, obligations, remedies and procedures may be provided by oral or written agreement of parties, or by applicable federal law. Proceedings under <cite path="1|124">this chapter</cite> shall not be governed by Chapters 150 - 156 (Evidence) except as provided by <cite path="1|122|122.9">Section 122.9</cite>.
-      </text>
+      <text><cite path="1|124">This chapter</cite> provides minimum rights, obligations, remedies, and procedures. Other rights, obligations, remedies and procedures may be provided by oral or written agreement of parties, or by applicable federal law. Proceedings under <cite path="1|124">this chapter</cite> shall not be governed by Chapters 150 - 156 (Evidence) except as provided by <cite path="1|122|122.9">Section 122.9</cite>.</text>
     </section>
     <section>
       <num>124.5</num>
@@ -1951,8 +1842,7 @@
       <heading>Notice Terminating Tenancy, No Fault by Either Party</heading>
       <para>
         <num>(a)</num>
-        <text>Unless otherwise provided by written agreement of the parties, notice terminating tenancy by either the landlord or the tenant, where no fault by the recipient of the notice is alleged, shall be given as provided by <cite path="1|124|124.12">this section</cite>.
-        </text>
+        <text>Unless otherwise provided by written agreement of the parties, notice terminating tenancy by either the landlord or the tenant, where no fault by the recipient of the notice is alleged, shall be given as provided by <cite path="1|124|124.12">this section</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1992,8 +1882,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Notice is considered given on the date specified in <cite path="1|124|124.13">Section 124.13</cite>.
-        </text>
+        <text>Notice is considered given on the date specified in <cite path="1|124|124.13">Section 124.13</cite>.</text>
       </para>
     </section>
     <section>
@@ -2123,8 +2012,7 @@
       <para>
         <num>(d)</num>
         <text>Effect of contrary agreement.</text>
-        <text>
-          <cite path="1|124|124.16">This section</cite> governs except as the parties agree otherwise either by the terms of the lease itself or by an agreement at any subsequent time.</text>
+        <text><cite path="1|124|124.16">This section</cite> governs except as the parties agree otherwise either by the terms of the lease itself or by an agreement at any subsequent time.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -2207,8 +2095,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <cite path="1|124|124.19">This section</cite> does not apply to complaints made about defects in the premises caused by the negligence or improper use of the tenant who is affected by the action or inaction.</text>
+        <text><cite path="1|124|124.19">This section</cite> does not apply to complaints made about defects in the premises caused by the negligence or improper use of the tenant who is affected by the action or inaction.</text>
       </para>
     </section>
     <section>
@@ -2232,8 +2119,7 @@
       <heading>Service of Summons and Complaint</heading>
       <para>
         <num>(a)</num>
-        <text>Service shall be made upon defendant pursuant to <cite path="1|122|122.7">Section 122.7</cite>.
-        </text>
+        <text>Service shall be made upon defendant pursuant to <cite path="1|122|122.7">Section 122.7</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2248,8 +2134,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Before judgment is entered after service is made under <cite path="1|124|124.21">this section</cite>, the plaintiff shall file proof of compliance with <cite path="1|124|124.21">this section</cite>.
-          </text>
+          <text>Before judgment is entered after service is made under <cite path="1|124|124.21">this section</cite>, the plaintiff shall file proof of compliance with <cite path="1|124|124.21">this section</cite>.</text>
         </para>
       </para>
       <para>
@@ -2260,31 +2145,27 @@
         </text>
         <text>Case No.</text>
         <text>Take notice that an eviction action has been commenced against you to recover the possession of the following described premises......, of which, I the plaintiff, am entitled to possession, but which you have unlawfully detained from me.</text>
-        <text>Unless you appear and defend on the          day of     <u> ,     ,</u> at     o'clock    . m., in the Bad River Tribal Court, located at the Tribal Administration Building (Chief Blackbird Center), Odanah, WI judgment may be rendered against you for the restitution of said premises and for costs.</text>
-        <text>DATED:    <u> ,</u>
-        </text>
+        <text>Unless you appear and defend on the 				 day of 		<u>	, 		,</u> at 		 o'clock 		. m., in the Bad River Tribal Court, located at the Tribal Administration Building (Chief Blackbird Center), Odanah, WI judgment may be rendered against you for the restitution of said premises and for costs.</text>
+        <text>DATED: 		<u>	,</u></text>
         <text>Plaintiff or Plaintiff's Attorney</text>
       </para>
     </section>
     <section>
       <num>124.22</num>
       <heading>Answers, Counterclaims, and Cross-Complaints</heading>
-      <text>All pleadings in response to the summons and complaint shall be made as provided in <cite path="1|122|122.8">Section 122.8</cite>.
-      </text>
+      <text>All pleadings in response to the summons and complaint shall be made as provided in <cite path="1|122|122.8">Section 122.8</cite>.</text>
     </section>
     <section>
       <num>124.23</num>
       <heading>Trial</heading>
-      <text>Trials under <cite path="1|124">this chapter</cite> shall be conducted as provided in <cite path="1|122|122.9">Section 122.9</cite>.
-      </text>
+      <text>Trials under <cite path="1|124">this chapter</cite> shall be conducted as provided in <cite path="1|122|122.9">Section 122.9</cite>.</text>
     </section>
     <section>
       <num>124.24</num>
       <heading>Judgment; Writ of Restitution</heading>
       <para>
         <num>(a)</num>
-        <text>Judgment. If the court finds that the plaintiff is entitled to possession of the premises, the order for judgment shall be for the restitution of the premises to the plaintiff and if an additional cause of action is joined under <cite path="1|124|124.20">Section 124.20</cite> and plaintiff prevails thereon, for such other relief as the court orders. Judgment shall be entered accordingly as provided in <cite path="1|122|122.10">Section 122.10</cite>.
-        </text>
+        <text>Judgment. If the court finds that the plaintiff is entitled to possession of the premises, the order for judgment shall be for the restitution of the premises to the plaintiff and if an additional cause of action is joined under <cite path="1|124|124.20">Section 124.20</cite> and plaintiff prevails thereon, for such other relief as the court orders. Judgment shall be entered accordingly as provided in <cite path="1|122|122.10">Section 122.10</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2300,18 +2181,17 @@
         <text>
           <strong>BAD RIVER TRIBAL COURT</strong>
         </text>
-        <text>
-          <strong>THE BAD RIVER TRIBE</strong> To any law enforcement officer:</text>
-        <text>The plaintiff,        , of         recovered a judgment against the defendant,           of         , in an eviction action in the Bad River Tribal Court, on the      day of       ,   , to have restitution of the following described premises:</text>
+        <text><strong>THE BAD RIVER TRIBE</strong> To any law enforcement officer:</text>
+        <text>The plaintiff, 				, of 				 recovered a judgment against the defendant, 					 of 				, in an eviction action in the Bad River Tribal Court, on the 		 day of 			, 	, to have restitution of the following described premises:</text>
         <text>(description as in complaint), located on the Bad River Reservation, in Ashland County, Wisconsin.</text>
-        <text>YOU ARE HEREBY COMMANDED To immediately remove the defendant,       , from the said premises and to restore the plaintiff,        , to the possession thereof. You are further commanded to remove from said premises all personal property not the property of the plaintiff, and to store and dispose of the same according to law, and to make due return of this writ within ten days.</text>
-        <text>Witness the Honorable             , Judge of the Bad River Tribal Court this     day of         ,     .</text>
+        <text>YOU ARE HEREBY COMMANDED To immediately remove the defendant, 			, from the said premises and to restore the plaintiff, 				, to the possession thereof. You are further commanded to remove from said premises all personal property not the property of the plaintiff, and to store and dispose of the same according to law, and to make due return of this writ within ten days.</text>
+        <text>Witness the Honorable 						, Judge of the Bad River Tribal Court this 		 day of 				, 		.</text>
       </para>
     </section>
     <section>
       <num>124.25</num>
       <heading>Appeal</heading>
-      <text>Appeals may be taken only as provided under Chapter 121, except that notice of appeal under <cite path="1|121|121.9">Section 121.9</cite> must be filed within 15 days of the entry of judgment or order for writ of restitution appealed from. No stay of the judgment or writ of restitution may be granted to the defendant under <cite path="1|121|121.10|(d)">Section 121.10(d)</cite> unless security for all rents, costs, and fees due, and all rent to be due during the pendency of the appeal is provided upon terms acceptable to the court.</text>
+      <text>Appeals may be taken only as provided under <cite path="1|121">Chapter 121</cite>, except that notice of appeal under <cite path="1|121|121.9">Section 121.9</cite> must be filed within 15 days of the entry of judgment or order for writ of restitution appealed from. No stay of the judgment or writ of restitution may be granted to the defendant under <cite path="1|121|121.10|(d)">Section 121.10(d)</cite> unless security for all rents, costs, and fees due, and all rent to be due during the pendency of the appeal is provided upon terms acceptable to the court.</text>
     </section>
     <section>
       <num>124.26</num>
@@ -2375,8 +2255,7 @@
     <section>
       <num>124.27</num>
       <heading>Costs Recoverable</heading>
-      <text>Costs shall be taxed and recovered as set forth in <cite path="1|122|122.13">Section 122.13</cite>, plus fees charged to plaintiff by sheriff or other officer under <cite path="1|124|124.25|(5)">Section 124.25(5)</cite>.
-      </text>
+      <text>Costs shall be taxed and recovered as set forth in <cite path="1|122|122.13">Section 122.13</cite>, plus fees charged to plaintiff by sheriff or other officer under <cite path="1|124|124.25|(5)">Section 124.25(5)</cite>.</text>
     </section>
     <section>
       <num>124.28</num>
@@ -2396,21 +2275,18 @@
     <section>
       <num>125.02</num>
       <heading>Authority</heading>
-      <text>
-        <cite path="1|125">This chapter</cite> is created under art. VI, sec. (1), Bad River Constitution.</text>
+      <text><cite path="1|125">This chapter</cite> is created under art. VI, sec. (1), Bad River Constitution.</text>
     </section>
     <section>
       <num>125.03</num>
       <heading>Construction</heading>
       <para>
         <num>(a)</num>
-        <text>
-          <cite path="1|125">This Chapter</cite> shall be liberally construed to effect the purposes stated in Section. 125.01.</text>
+        <text><cite path="1|125">This Chapter</cite> shall be liberally construed to effect the purposes stated in Section. 125.01.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <cite path="1|125">This chapter</cite> shall be interpreted to comport with the customs and traditions of the Bad River Tribe. If the customs and traditions of the Bad River Tribe are inconclusive in any matter, federal law and law of the State of Wisconsin may be used for guidance.</text>
+        <text><cite path="1|125">This chapter</cite> shall be interpreted to comport with the customs and traditions of the Bad River Tribe. If the customs and traditions of the Bad River Tribe are inconclusive in any matter, federal law and law of the State of Wisconsin may be used for guidance.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2422,8 +2298,7 @@
       <heading>Children's Court</heading>
       <para>
         <num>(a)</num>
-        <text>There is hereby established a Bad River Children's Court exercising jurisdiction pursuant to <cite path="1|125">this chapter</cite>.
-        </text>
+        <text>There is hereby established a Bad River Children's Court exercising jurisdiction pursuant to <cite path="1|125">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2431,12 +2306,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>All proceedings in Children's Court shall be designated as "In the interest of          , a child."</text>
+        <text>All proceedings in Children's Court shall be designated as "In the interest of 					, a child."</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>In the event that a proceeding is transferred to the Children's Court from any other court, the Children's Court may require conformity with the substantive and procedural law of the Tribe, and shall permit amendment of pleadings and other actions necessary to effect jurisdiction over the child and for conformity with <cite path="1|125">this chapter</cite>.
-        </text>
+        <text>In the event that a proceeding is transferred to the Children's Court from any other court, the Children's Court may require conformity with the substantive and procedural law of the Tribe, and shall permit amendment of pleadings and other actions necessary to effect jurisdiction over the child and for conformity with <cite path="1|125">this chapter</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -2456,13 +2330,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Upon entry of the order transferring the case, dispositional orders in effect when the case was transferred to the Children's Court shall have the same effect as if they had issued from the Children's Court, regardless of whether the Children's Court would in fact have had the power to make the order. Regardless of the law of other jurisdictions, the Children's Court may modify, extend, suspend or terminate any order issued in a transferred judicial proceeding pursuant to <cite path="1|125|125.18">Section 125.18</cite> of <cite path="1|125">this Chapter</cite>.
-        </text>
+        <text>Upon entry of the order transferring the case, dispositional orders in effect when the case was transferred to the Children's Court shall have the same effect as if they had issued from the Children's Court, regardless of whether the Children's Court would in fact have had the power to make the order. Regardless of the law of other jurisdictions, the Children's Court may modify, extend, suspend or terminate any order issued in a transferred judicial proceeding pursuant to <cite path="1|125|125.18">Section 125.18</cite> of <cite path="1|125">this Chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Nothing in <cite path="1|125|125.045">this section</cite> shall be construed to conflict with sub<cite path="1|125|125.04|(d)">section 125.04(d)</cite> of <cite path="1|125">this Chapter</cite>.
-        </text>
+        <text>Nothing in <cite path="1|125|125.045">this section</cite> shall be construed to conflict with sub<cite path="1|125|125.04|(d)">section 125.04(d)</cite> of <cite path="1|125">this Chapter</cite>.</text>
       </para>
     </section>
     <section>
@@ -2533,18 +2405,15 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Terminate the parental rights of a parent of a child pursuant to <cite path="1|125|125.21">Section 125.21</cite>.
-          </text>
+          <text>Terminate the parental rights of a parent of a child pursuant to <cite path="1|125|125.21">Section 125.21</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Appoint a guardian for a child pursuant to <cite path="1|125|125.22">Section 125.22</cite>.
-          </text>
+          <text>Appoint a guardian for a child pursuant to <cite path="1|125|125.22">Section 125.22</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Enter an order of adoption resetting the parental relations of a child pursuant to <cite path="1|125|125.23">Section 125.23</cite>.
-          </text>
+          <text>Enter an order of adoption resetting the parental relations of a child pursuant to <cite path="1|125|125.23">Section 125.23</cite>.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -2555,8 +2424,7 @@
         <num>(c)</num>
         <para>
           <num>(1)</num>
-          <text>In addition to jurisdiction granted by other sections of <cite path="1|125">this Chapter</cite>, the Children's Court shall have jurisdiction over persons 18 years or older alleged to have contributed to, encouraged, or tended to cause, by act or omission, a condition of a child as described in <cite path="1|125|125.05|(a)">Section 125.05(a)</cite>.
-          </text>
+          <text>In addition to jurisdiction granted by other sections of <cite path="1|125">this Chapter</cite>, the Children's Court shall have jurisdiction over persons 18 years or older alleged to have contributed to, encouraged, or tended to cause, by act or omission, a condition of a child as described in <cite path="1|125|125.05|(a)">Section 125.05(a)</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2576,8 +2444,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The child welfare coordinator is an officer of the Children's Court and has the authority to receive referrals, investigate reports, ascertain whether a child is probably subject to <cite path="1|125">this chapter</cite>, take a child into emergency custody to protect the child's safety or welfare, file petitions, represent the Tribe in matters before the Children's Court, enter into consensus dispositions on behalf of the Tribe, and to report as required by the Court on the conditions of a child who is subject to <cite path="1|125">this chapter</cite>.
-        </text>
+        <text>The child welfare coordinator is an officer of the Children's Court and has the authority to receive referrals, investigate reports, ascertain whether a child is probably subject to <cite path="1|125">this chapter</cite>, take a child into emergency custody to protect the child's safety or welfare, file petitions, represent the Tribe in matters before the Children's Court, enter into consensus dispositions on behalf of the Tribe, and to report as required by the Court on the conditions of a child who is subject to <cite path="1|125">this chapter</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -2587,8 +2454,7 @@
     <section>
       <num>125.055</num>
       <heading>Waiver of Jurisdiction Protest of Child's Tribe</heading>
-      <text>When a petition is filed regarding an Indian child who is domiciled on the Reservation but who is not a member of or eligible for membership in the Bad River Tribe, the party filing the petition shall notify the child's tribe, or any tribe(s) in which the child is eligible for membership. Any party filing any document in the case shall serve the child's tribe(s) with the document. If a child's tribe objects to the jurisdiction of the Bad River Tribal Court prior to the entry of a final judgment in the case, the Court shall waive jurisdiction over the child. Such a child shall be deemed an ineligible child subject to <cite path="1|125|125.24">section 125.24</cite>.
-      </text>
+      <text>When a petition is filed regarding an Indian child who is domiciled on the Reservation but who is not a member of or eligible for membership in the Bad River Tribe, the party filing the petition shall notify the child's tribe, or any tribe(s) in which the child is eligible for membership. Any party filing any document in the case shall serve the child's tribe(s) with the document. If a child's tribe objects to the jurisdiction of the Bad River Tribal Court prior to the entry of a final judgment in the case, the Court shall waive jurisdiction over the child. Such a child shall be deemed an ineligible child subject to <cite path="1|125|125.24">section 125.24</cite>.</text>
     </section>
     <section>
       <num>125.06</num>
@@ -2932,8 +2798,7 @@
       <heading>Disposition</heading>
       <para>
         <num>(a)</num>
-        <text>At any stage of a proceeding under <cite path="1|125">this chapter</cite> the court may order interim disposition for the child. Such an order may include any disposition authorized by <cite path="1|125|125.17|(d)">Section 125.17(d)</cite>.
-        </text>
+        <text>At any stage of a proceeding under <cite path="1|125">this chapter</cite> the court may order interim disposition for the child. Such an order may include any disposition authorized by <cite path="1|125|125.17|(d)">Section 125.17(d)</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2972,8 +2837,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Other factors calculated to meet the needs of the individual child and purposes of <cite path="1|125">this chapter</cite>.
-          </text>
+          <text>Other factors calculated to meet the needs of the individual child and purposes of <cite path="1|125">this chapter</cite>.</text>
         </para>
       </para>
       <para>
@@ -3050,8 +2914,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The scope of inquiry at the hearing on an extension is whether the conditions that warranted the adjudication continue or whether new circumstances provide jurisdiction pursuant to <cite path="1|125|125.05">Section 125.05</cite>. If an extension is sought on the ground of new circumstances, the circumstances justifying extended jurisdiction shall be alleged in the petition. To assist the court, parties and guardian ad litem, parties may prepare and distribute court reports similar to those called for in <cite path="1|125|125.17">Section 125.17</cite>.
-        </text>
+        <text>The scope of inquiry at the hearing on an extension is whether the conditions that warranted the adjudication continue or whether new circumstances provide jurisdiction pursuant to <cite path="1|125|125.05">Section 125.05</cite>. If an extension is sought on the ground of new circumstances, the circumstances justifying extended jurisdiction shall be alleged in the petition. To assist the court, parties and guardian ad litem, parties may prepare and distribute court reports similar to those called for in <cite path="1|125|125.17">Section 125.17</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3063,8 +2926,7 @@
       <heading>Discovery</heading>
       <para>
         <num>(a)</num>
-        <text>Copies of all peace officer reports, including but not limited to officers' memoranda and witness statements, shall be made available upon request of the tribe's attorney, to counsel or to the child's guardian ad litem prior to the initial hearing. The child, through his or her guardian ad litem, shall be the only non-petitioning party to have access to such reports in proceedings filed under <cite path="1|125|125.05|(a)|(8)">Section 125.05(a)(8)</cite>.
-        </text>
+        <text>Copies of all peace officer reports, including but not limited to officers' memoranda and witness statements, shall be made available upon request of the tribe's attorney, to counsel or to the child's guardian ad litem prior to the initial hearing. The child, through his or her guardian ad litem, shall be the only non-petitioning party to have access to such reports in proceedings filed under <cite path="1|125|125.05|(a)|(8)">Section 125.05(a)(8)</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3125,8 +2987,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Voluntary Termination. The court may terminate the parental rights of a parent who has given his or her informed, voluntary consent as provided in <cite path="1|125|125.21">this section</cite>.
-        </text>
+        <text>Voluntary Termination. The court may terminate the parental rights of a parent who has given his or her informed, voluntary consent as provided in <cite path="1|125|125.21">this section</cite>.</text>
         <para>
           <num>(1)</num>
           <text>The parent appears personally at a hearing and gives his or her consent, the court explains the effect of a termination of parental rights, and the court has questioned the parent and found to its satisfaction that the consent is informed and voluntary.</text>
@@ -3137,13 +2998,11 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>A person who may be but has not been adjudicated the father of a non marital child may consent as in (1) or (2) by signing a written, notarized statement that he has been informed of and understands the effect of a termination of parental rights and voluntarily disclaims any rights he may have to the child, including the right of notice of further proceedings under <cite path="1|125">this chapter</cite>.
-          </text>
+          <text>A person who may be but has not been adjudicated the father of a non marital child may consent as in (1) or (2) by signing a written, notarized statement that he has been informed of and understands the effect of a termination of parental rights and voluntarily disclaims any rights he may have to the child, including the right of notice of further proceedings under <cite path="1|125">this chapter</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>If the proceeding to terminate parental rights is held prior to an adoption proceeding in which the petitioner is the child's stepparent, the parent may consent to termination of rights as provided in (1) or (2) or by filing with the court an affidavit witnessed by two persons stating that he or she has been informed of and understands the effect of an order to terminate parental rights, and that he or she voluntarily disclaims all rights to the child, including the right to notice of further proceedings under <cite path="1|125">this chapter</cite>.
-          </text>
+          <text>If the proceeding to terminate parental rights is held prior to an adoption proceeding in which the petitioner is the child's stepparent, the parent may consent to termination of rights as provided in (1) or (2) or by filing with the court an affidavit witnessed by two persons stating that he or she has been informed of and understands the effect of an order to terminate parental rights, and that he or she voluntarily disclaims all rights to the child, including the right to notice of further proceedings under <cite path="1|125">this chapter</cite>.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -3247,8 +3106,7 @@
         <text>Initial Hearing.</text>
         <para>
           <num>(1)</num>
-          <text>An initial hearing shall be held on a petition to terminate parental rights no later than 30 days after the filing of the petition. At the hearing the court shall determine whether any party wishes to contest the petition and shall inform the parties of their rights under <cite path="1|125|125.15|(c)">Section 125.15(c)</cite>.
-          </text>
+          <text>An initial hearing shall be held on a petition to terminate parental rights no later than 30 days after the filing of the petition. At the hearing the court shall determine whether any party wishes to contest the petition and shall inform the parties of their rights under <cite path="1|125|125.15|(c)">Section 125.15(c)</cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3264,8 +3122,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>A guardian ad litem shall be appointed for the child in any contested proceeding under <cite path="1|125|125.21">this section</cite>.
-          </text>
+          <text>A guardian ad litem shall be appointed for the child in any contested proceeding under <cite path="1|125|125.21">this section</cite>.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -3281,8 +3138,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>If disposition is delayed, the court may enter an interim disposition under <cite path="1|125|125.17|(a)">Section 125.17(a)</cite>.
-          </text>
+          <text>If disposition is delayed, the court may enter an interim disposition under <cite path="1|125|125.17|(a)">Section 125.17(a)</cite>.</text>
         </para>
       </para>
       <para>
@@ -3294,8 +3150,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Court considerations. In making a decision about the appropriate disposition, the court shall consider the standard and factors enumerated in <cite path="1|125|125.21">this section</cite>.
-          </text>
+          <text>Court considerations. In making a decision about the appropriate disposition, the court shall consider the standard and factors enumerated in <cite path="1|125|125.21">this section</cite>.</text>
           <para>
             <num>(a)</num>
             <text>Standard. The best interests of the child shall be the prevailing factor considered by the court in determining the disposition of all proceedings under this subchapter,</text>
@@ -3595,8 +3450,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>To receive and administer guardianship and custody of children under <cite path="1|125">this chapter</cite>.
-          </text>
+          <text>To receive and administer guardianship and custody of children under <cite path="1|125">this chapter</cite>.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -3627,11 +3481,6 @@
         <num>(c)</num>
         <text>By <cite path="1|125">this chapter</cite> and by the resolution adopting <cite path="1|125">this chapter</cite>, the Child Welfare Committee is delegated the Tribal Council's authority under 25 U.S.C. sec. 1915(c) to establish in individual cases a different order of preference than that set forth in 25 U.S.C. sec. 1915 (a) and (b).</text>
       </para>
-      <text>
-        <strong>
-          <em>ENACTED BY RESOLUTION #3-8-88-128/AMENDED BY RESOLUTION #4-5-89-33/AMENDED BY RESOLUTION #5-9-95-49</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -3643,8 +3492,7 @@
       <heading>Applicability</heading>
       <para>
         <num>(a)</num>
-        <text>
-          <cite path="1|126">This chapter</cite> applies to marriages performed on the Reservation, in which one or both parties to the marriage is a member of the Tribe.</text>
+        <text><cite path="1|126">This chapter</cite> applies to marriages performed on the Reservation, in which one or both parties to the marriage is a member of the Tribe.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3821,8 +3669,7 @@
     <section>
       <num>126.19</num>
       <heading>Immaterial Irregularities Otherwise</heading>
-      <text>No marriage hereafter contracted shall be void by reason of any informality or irregularity of form in the application for the marriage license or in the marriage license itself, or the incompetency of the witnesses to such marriage or because the marriage may have been solemnized more than 30 days after the date of the marriage license, if the marriage is in other respects lawful and is consummated with the full belief on the part of the persons so married, or either of them, that they have been lawfully joined in marriage. Where a marriage has been celebrated in one of the forms provided for in <cite path="1|126|126.11">Section 126.11</cite> and the parties thereto have immediately thereafter assumed the habit and repute of husband and wife, and having continued the same uninterruptedly thereafter for the period of one year, or until the death of either of them, it shall be deemed that a marriage license has been issued as required by <cite path="1|126">this chapter</cite>.
-      </text>
+      <text>No marriage hereafter contracted shall be void by reason of any informality or irregularity of form in the application for the marriage license or in the marriage license itself, or the incompetency of the witnesses to such marriage or because the marriage may have been solemnized more than 30 days after the date of the marriage license, if the marriage is in other respects lawful and is consummated with the full belief on the part of the persons so married, or either of them, that they have been lawfully joined in marriage. Where a marriage has been celebrated in one of the forms provided for in <cite path="1|126|126.11">Section 126.11</cite> and the parties thereto have immediately thereafter assumed the habit and repute of husband and wife, and having continued the same uninterruptedly thereafter for the period of one year, or until the death of either of them, it shall be deemed that a marriage license has been issued as required by <cite path="1|126">this chapter</cite>.</text>
     </section>
     <section>
       <num>126.20</num>
@@ -3852,8 +3699,7 @@
     <section>
       <num>126.22</num>
       <heading>Indian Traditional Marriages</heading>
-      <text>All marriages hereafter must comply with the provisions of <cite path="1|126">this chapter</cite>.
-      </text>
+      <text>All marriages hereafter must comply with the provisions of <cite path="1|126">this chapter</cite>.</text>
     </section>
     <section>
       <num>126.23</num>
@@ -3872,8 +3718,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Unlawful issuance of marriage license. Any clerk who knowingly issues a marriage license contrary to or in violation of <cite path="1|126">this chapter</cite>.
-          </text>
+          <text>Unlawful issuance of marriage license. Any clerk who knowingly issues a marriage license contrary to or in violation of <cite path="1|126">this chapter</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3935,11 +3780,6 @@
       <para>
         <num>(e)</num>
         <text>"Tribal Court" means the Tribal Court of the Bad River Tribe.</text>
-        <text>
-          <strong>
-            <em>Enacted by Resolution #9-14-90-141</em>
-          </strong>
-        </text>
       </para>
     </section>
   </container>
@@ -3952,8 +3792,7 @@
       <heading>Applicability</heading>
       <para>
         <num>(a)</num>
-        <text>
-          <cite path="1|127">This chapter</cite> applies to dissolutions of marriage and legal separations of marriage performed on the Reservation, in which one or both parties to the marriage is a member of the Bad River Tribe, or to marriage performed in another jurisdiction in which both parties are members of the Bad River Tribe, or a marriage performed in another jurisdiction in which one party is a member of the Bad River Tribe and the party filing the action has been a resident within the exterior boundary of the Bad River Reservation for a period of at least 60 days prior to the commencement of the dissolution action.</text>
+        <text><cite path="1|127">This chapter</cite> applies to dissolutions of marriage and legal separations of marriage performed on the Reservation, in which one or both parties to the marriage is a member of the Bad River Tribe, or to marriage performed in another jurisdiction in which both parties are members of the Bad River Tribe, or a marriage performed in another jurisdiction in which one party is a member of the Bad River Tribe and the party filing the action has been a resident within the exterior boundary of the Bad River Reservation for a period of at least 60 days prior to the commencement of the dissolution action.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3967,22 +3806,14 @@
     <section>
       <num>127.02</num>
       <heading>Definitions</heading>
-      <text>
-        <em>Tribal Court</em> - means the Bad River Tribal Court.</text>
-      <text>
-        <em>Dissolution of Marriage</em> - means the legal termination of a marriage between a husband and wife.</text>
-      <text>
-        <em>Proceeding</em> - means legal process and shall be entitled "In Re the Marriage of __________ and _____________." A custody or support proceeding shall be entitled "In Re the (Custody) (Support) of ________________________."</text>
-      <text>
-        <em>Irretrievably broken</em> - means the determination that there is no reasonable prospect for reconciliation.</text>
-      <text>
-        <em>Joinder of Parties</em> - means the uniting of two or more persons as co-plaintiffs or as co-defendants in one suit.</text>
-      <text>
-        <em>Maintenance/Support</em> - means the act of maintaining, keeping up, support; livelihood; means of sustenance.</text>
-      <text>
-        <em>Final Decree</em> - means a final decision, one which leaves nothing open to further dispute and which sets at rest the cause of action between parties.</text>
-      <text>
-        <em>Special Master</em> - means a court appointed person assigned to complete a specific task on behalf of the Court in a case.</text>
+      <text><em>Tribal Court</em> - means the Bad River Tribal Court.</text>
+      <text><em>Dissolution of Marriage</em> - means the legal termination of a marriage between a husband and wife.</text>
+      <text><em>Proceeding</em> - means legal process and shall be entitled "In Re the Marriage of __________ and _____________." A custody or support proceeding shall be entitled "In Re the (Custody) (Support) of ________________________."</text>
+      <text><em>Irretrievably broken</em> - means the determination that there is no reasonable prospect for reconciliation.</text>
+      <text><em>Joinder of Parties</em> - means the uniting of two or more persons as co-plaintiffs or as co-defendants in one suit.</text>
+      <text><em>Maintenance/Support</em> - means the act of maintaining, keeping up, support; livelihood; means of sustenance.</text>
+      <text><em>Final Decree</em> - means a final decision, one which leaves nothing open to further dispute and which sets at rest the cause of action between parties.</text>
+      <text><em>Special Master</em> - means a court appointed person assigned to complete a specific task on behalf of the Court in a case.</text>
     </section>
     <section>
       <num>127.03</num>
@@ -4296,8 +4127,7 @@
     <section>
       <num>127.14</num>
       <heading>Assignments</heading>
-      <text>In the event a person obligated to pay child support is in arrears for at two months or more, the Court may order the person obligated to pay child support to make an assignment of a part of his periodic earnings or trust income to the person entitled to receive the payments. The assignment is binding on the employer, trustee, or other payor of the funds two weeks after service upon such person of notice that the assignment has been made. The payor shall withhold the earns or trust income payable to the person obligated to support the amount specified in the assignment and shall transmit the payments to the Clerk of the Court. The payor may deduct from each payment a sum not exceeding five dollars as reimbursements for costs. An employer shall not discharge or otherwise discipline an employee solely as a result of a wage or salary assignment authorized by <cite path="1|127|127.14">this section</cite>.
-      </text>
+      <text>In the event a person obligated to pay child support is in arrears for at two months or more, the Court may order the person obligated to pay child support to make an assignment of a part of his periodic earnings or trust income to the person entitled to receive the payments. The assignment is binding on the employer, trustee, or other payor of the funds two weeks after service upon such person of notice that the assignment has been made. The payor shall withhold the earns or trust income payable to the person obligated to support the amount specified in the assignment and shall transmit the payments to the Clerk of the Court. The payor may deduct from each payment a sum not exceeding five dollars as reimbursements for costs. An employer shall not discharge or otherwise discipline an employee solely as a result of a wage or salary assignment authorized by <cite path="1|127|127.14">this section</cite>.</text>
     </section>
     <section>
       <num>127.15</num>
@@ -4554,8 +4384,7 @@
     <section>
       <num>127.29</num>
       <heading>Subsequent Petition Filed within One Year</heading>
-      <text>Once a petition by either or both of the spouses has been filed pursuant to <cite path="1|127">this chapter</cite>, the filing of any subsequent petition under such section within one year thereafter by either or both of the spouses shall not stay any action for dissolution of marriage or legal separation then pending, nor prohibit the filing of such action by either party. The filing of a subsequent petition by either or both of the spouses more than one year after the filing of any previous petition with such effect shall have the same effect toward staying any domestic relations action then pending and toward prohibiting the filing of any such action as provided in <cite path="1|127">this chapter</cite>.
-      </text>
+      <text>Once a petition by either or both of the spouses has been filed pursuant to <cite path="1|127">this chapter</cite>, the filing of any subsequent petition under such section within one year thereafter by either or both of the spouses shall not stay any action for dissolution of marriage or legal separation then pending, nor prohibit the filing of such action by either party. The filing of a subsequent petition by either or both of the spouses more than one year after the filing of any previous petition with such effect shall have the same effect toward staying any domestic relations action then pending and toward prohibiting the filing of any such action as provided in <cite path="1|127">this chapter</cite>.</text>
     </section>
   </container>
   <container>
@@ -4941,11 +4770,11 @@
         <text>Investments</text>
         <para>
           <num>(a)</num>
-          <text>The guardian of the estate may, without approval of the court, invest and reinvest the proceeds of sale of any guardianship assets and any other moneys in the guardian's possession in accordance with Wisconsin Statute Chapter 881:</text>
+          <text>The guardian of the estate may, without approval of the court, invest and reinvest the proceeds of sale of any guardianship assets and any other moneys in the guardian's possession in accordance with Wisconsin Statute <cite path="8|881">Chapter 881</cite>:</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The guardian of the estate may, with the approval of the court, after such notice as the court directs, invest the proceeds of sale of any guardianship assets and any other moneys in the guardian's possession in such real or personal property as the court determines to be in the best interests of the guardianship estate, without regard to Wisconsin Statute Chapter 881. (c) No guardian shall lend guardianship funds to himself or herself.</text>
+          <text>The guardian of the estate may, with the approval of the court, after such notice as the court directs, invest the proceeds of sale of any guardianship assets and any other moneys in the guardian's possession in such real or personal property as the court determines to be in the best interests of the guardianship estate, without regard to Wisconsin Statute <cite path="8|881">Chapter 881</cite>. (c) No guardian shall lend guardianship funds to himself or herself.</text>
         </para>
       </para>
       <para>
@@ -5158,8 +4987,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>An order may award visitation rights under the circumstances prevailing at the time of the order, and may also award contingent visitation rights under circumstances prevailing at the time of the order, and may also award contingent visitation rights under circumstances that may reasonably be expected to occur at a future time, provided that any such award of contingent rights is reviewable under <cite path="1|129|129.08">sec. 129.08</cite>.
-        </text>
+        <text>An order may award visitation rights under the circumstances prevailing at the time of the order, and may also award contingent visitation rights under circumstances prevailing at the time of the order, and may also award contingent visitation rights under circumstances that may reasonably be expected to occur at a future time, provided that any such award of contingent rights is reviewable under <cite path="1|129|129.08">sec. 129.08</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -5192,11 +5020,6 @@
     <section>
       <num>130.3</num>
       <text>The petitioner for a change of name must cause a notification of his or her intentions to change name to be published in the Tribal Newsletter for one issue and in the Ashland Daily Press for three issues. The notice must state the petitioner's present name and intended name and must state the date and time of the Court hearing and where change will take place, and that any person who objects will have an opportunity to raise his objections at that time.</text>
-      <text>
-        <strong>
-          <em>(CHAPTER 130 ENACTED BY RESOLUTION #8-7-85-216)</em>
-        </strong>
-      </text>
     </section>
   </container>
   <container>
@@ -5222,18 +5045,15 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"Foster Child" means a child placed for care in a home required to be licensed under <cite path="1|131">this chapter</cite>.
-        </text>
+        <text>"Foster Child" means a child placed for care in a home required to be licensed under <cite path="1|131">this chapter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>"Foster Home" means a facility operated by a person or persons required to license under <cite path="1|131">this chapter</cite>.
-        </text>
+        <text>"Foster Home" means a facility operated by a person or persons required to license under <cite path="1|131">this chapter</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>"Foster Parent(s)" means a person or persons who operate a facility required to license under <cite path="1|131">this chapter</cite>.
-        </text>
+        <text>"Foster Parent(s)" means a person or persons who operate a facility required to license under <cite path="1|131">this chapter</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -5245,8 +5065,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"Licensee" means a person licensed under <cite path="1|131">this chapter</cite>.
-        </text>
+        <text>"Licensee" means a person licensed under <cite path="1|131">this chapter</cite>.</text>
       </para>
     </section>
     <section>
@@ -5259,8 +5078,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The right to be evaluated objectively on the basis of <cite path="1|131">this Chapter</cite>.
-        </text>
+        <text>The right to be evaluated objectively on the basis of <cite path="1|131">this Chapter</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -5994,8 +5812,7 @@
       <heading>Heirship By Killing</heading>
       <para>
         <num>a.</num>
-        <text>No Acquisition of Property by Killing. Subject to any applicable Federal law relating to the devise or descent of land or property, no heir by killing in any way acquires any land or property or interest in any land or property as the result of the passing of the decedent, such property shall pass in accordance with <cite path="1|132|132.12">this Section</cite>.
-        </text>
+        <text>No Acquisition of Property by Killing. Subject to any applicable Federal law relating to the devise or descent of land or property, no heir by killing in any way acquires any land or property or interest in any land or property as the result of the passing of the decedent, such property shall pass in accordance with <cite path="1|132|132.12">this Section</cite>.</text>
       </para>
       <para>
         <num>b.</num>
@@ -6111,10 +5928,10 @@
       <text>We, ________________, ________________, and, the testator and the witnesses, respectively, whose names are signed to the attached and foregoing instrument, being first duly sworn, do hereby declare to the foregoing authority that the testator signed and executed the instrument as the testator's last will and that the testator signed willingly or directed another to sign for the testator, and that the testator executed the instrument as his or her free and voluntary act for the purposes therein expressed; and that each of the witnesses, in the presence and hearing of the testator, signed the will as witness and that to the best of his or her knowledge the testator was at the time 18 years or more of age, of sound mind and under no constraint or undue influence.</text>
       <text>________________,</text>
       <text>TESTATOR</text>
-      <text>_________________________   _________________________   ___________________</text>
-      <text>WITNESS         Address         Date</text>
-      <text>_________________________   _________________________   ___________________</text>
-      <text>WITNESS         Address         Date</text>
+      <text>_________________________		_________________________		___________________</text>
+      <text>WITNESS 				Address					Date</text>
+      <text>_________________________		_________________________		___________________</text>
+      <text>WITNESS 				Address					Date</text>
       <text>Subscribed, sworn to and acknowledged before me by the testator, and subscribed and sworn to before me by ________________________ _______________and ___________________________ witnesses, this day of _________________ 20 ______.</text>
       <text>____________________________________</text>
       <text>SIGNED BY JUDGE OR NOTARY</text>
@@ -6230,8 +6047,7 @@
     <section>
       <num>132.27</num>
       <heading>Intestate Succession</heading>
-      <text>Any part of the estate of a decedent not effectively disposed of by the decedent's will passes to the decedent's heirs as prescribed in the following sections of <cite path="1|132">this Chapter</cite>.
-      </text>
+      <text>Any part of the estate of a decedent not effectively disposed of by the decedent's will passes to the decedent's heirs as prescribed in the following sections of <cite path="1|132">this Chapter</cite>.</text>
     </section>
     <section>
       <num>132.28</num>
@@ -6345,8 +6161,7 @@
       </para>
       <para>
         <num>c.</num>
-        <text>After notice and hearing, the Court shall determine the amount of the elective share and shall order its payment from the assets of the estate or by contribution as appears appropriate under <cite path="1|132|132.41">Section 132.41</cite>.
-        </text>
+        <text>After notice and hearing, the Court shall determine the amount of the elective share and shall order its payment from the assets of the estate or by contribution as appears appropriate under <cite path="1|132|132.41">Section 132.41</cite>.</text>
       </para>
       <para>
         <num>d.</num>
@@ -6459,8 +6274,7 @@
       <heading>Summary Probate of Exempt Estates</heading>
       <para>
         <num>a.</num>
-        <text>Exempt Estates. An estate having an appraised value which does not exceed $5,000 and which is to be inherited by a surviving spouse and/or minor children of the deceased shall be exempt from the claims of all general creditors and the probate thereof may be summarily concluded as provided in <cite path="1|132|132.48">this Section</cite>.
-        </text>
+        <text>Exempt Estates. An estate having an appraised value which does not exceed $5,000 and which is to be inherited by a surviving spouse and/or minor children of the deceased shall be exempt from the claims of all general creditors and the probate thereof may be summarily concluded as provided in <cite path="1|132|132.48">this Section</cite>.</text>
       </para>
       <para>
         <num>b.</num>
@@ -6871,8 +6685,7 @@
       <heading>Enforcement and Penalties</heading>
       <para>
         <num>(a)</num>
-        <text>Enforcement Procedure. Before taking any enforcement action under <cite path="1|134">this chapter</cite>, a law enforcement officer shall ask the apparent offender's age and reason for being in the public place. The officer shall not issue a citation under <cite path="1|134|134.3">section 134.3</cite> unless the officer reasonably believes that an offense has occurred as provided in <cite path="1|134">this chapter</cite>.
-        </text>
+        <text>Enforcement Procedure. Before taking any enforcement action under <cite path="1|134">this chapter</cite>, a law enforcement officer shall ask the apparent offender's age and reason for being in the public place. The officer shall not issue a citation under <cite path="1|134|134.3">section 134.3</cite> unless the officer reasonably believes that an offense has occurred as provided in <cite path="1|134">this chapter</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -6974,8 +6787,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>"Truancy" means any absence of part or all one or more days from school during which the school attendance officer, or his agent, has not been notified of the legal cause of such absence by the person having the absent pupil under his or her control during non-school hours. "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the tribe's and state's attendance laws (Bad River Truancy Code <cite path="1|135|135.3">section 135.3</cite> and Wis. Stat. <cite path="1|118|118.5">Sec. 118.5</cite>).
-        </text>
+        <text>"Truancy" means any absence of part or all one or more days from school during which the school attendance officer, or his agent, has not been notified of the legal cause of such absence by the person having the absent pupil under his or her control during non-school hours. "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the tribe's and state's attendance laws (Bad River Truancy Code <cite path="1|135|135.3">section 135.3</cite> and Wis. Stat. <cite path="1|118|118.5">Sec. 118.5</cite>).</text>
       </para>
       <para>
         <num>(l)</num>
@@ -6999,14 +6811,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>
-          <u>Requirement to Attend School</u>. Except as excused under a school policy governing school attendance or the state compulsory attendance law (Wis. Stat. <cite path="1|118|118.15">Sec. 118.15</cite>), any person having under their control a school aged child shall enroll the child in school.</text>
+        <text><u>Requirement to Attend School</u>. Except as excused under a school policy governing school attendance or the state compulsory attendance law (Wis. Stat. <cite path="1|118|118.15">Sec. 118.15</cite>), any person having under their control a school aged child shall enroll the child in school.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>
-          <u>Truancy Prohibited</u>.
-        </text>
+        <text><u>Truancy Prohibited</u>.</text>
         <para>
           <num>(1)</num>
           <text>Truancy is prohibited.</text>
@@ -7029,13 +6838,11 @@
         <text>The school must document the following steps before the Tribal Court hears a truancy petition:</text>
         <para>
           <num>(1)</num>
-          <text>
-            <u>First Incident</u>: The School Attendance Officer shall give verbal warning and send a letter to the parent/legal guardian/legal custodian and to the mentor (if appropriate).</text>
+          <text><u>First Incident</u>: The School Attendance Officer shall give verbal warning and send a letter to the parent/legal guardian/legal custodian and to the mentor (if appropriate).</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>
-            <u>Second Incident</u>: The School Attendance Officer is to contact the Home-School Coordinator, Indian Child Welfare Worker or other appropriate party to set up and document a meeting with the child and parent/legal guardian/legal custodian. The purpose of the meeting shall be to identify and resolve behaviors that are in violation of the provisions of this code through an appropriate plan of action, which shall be agreed to and signed by all parties involved. The following steps shall be required in developing the action plan:</text>
+          <text><u>Second Incident</u>: The School Attendance Officer is to contact the Home-School Coordinator, Indian Child Welfare Worker or other appropriate party to set up and document a meeting with the child and parent/legal guardian/legal custodian. The purpose of the meeting shall be to identify and resolve behaviors that are in violation of the provisions of this code through an appropriate plan of action, which shall be agreed to and signed by all parties involved. The following steps shall be required in developing the action plan:</text>
           <para>
             <num>(a)</num>
             <text>Provide an opportunity for educational counseling to the child to determine whether a change in the child's curriculum would resolve the child's truancy and have considered curriculum modification.</text>
@@ -7055,8 +6862,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>
-            <u>Third Incident</u>: Refer to Tribal Court. A checklist documenting evaluation of the steps required in section must be submitted to the court upon referral. Once referred to Tribal Court, the child's parent(s)/legal guardian(s)/legal custodian(s) shall be summoned in accordance with Bad River Tribal Court Code. If summoned to Tribal Court, appearance is mandatory by both the child and the parent/legal guardian/legal custodian.</text>
+          <text><u>Third Incident</u>: Refer to Tribal Court. A checklist documenting evaluation of the steps required in section must be submitted to the court upon referral. Once referred to Tribal Court, the child's parent(s)/legal guardian(s)/legal custodian(s) shall be summoned in accordance with Bad River Tribal Court Code. If summoned to Tribal Court, appearance is mandatory by both the child and the parent/legal guardian/legal custodian.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -7097,13 +6903,12 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Nothing herein shall prohibit the referral of a tribal child to the Child Welfare office for the filing of a child welfare petition under Chapter 125 of the Bad River Code of Laws. A child welfare petition may be filed regarding any tribal child who has been truant for five (5) days or more in any three (3) month period.</text>
+        <text>Nothing herein shall prohibit the referral of a tribal child to the Child Welfare office for the filing of a child welfare petition under <cite path="1|125">Chapter 125</cite> of the Bad River Code of Laws. A child welfare petition may be filed regarding any tribal child who has been truant for five (5) days or more in any three (3) month period.</text>
       </para>
       <para>
         <num>(d)</num>
         <text>The Tribal Court shall have jurisdiction over cases brought to enforce this code. Proceedings shall be conducted in accordance with the Bad River Tribal Court Code.</text>
       </para>
-      <text>Passed by Resolution #8-24-99-327</text>
     </section>
   </container>
   <container>
@@ -7198,8 +7003,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>
-            <u>Exclusions</u>: Domestic and family violence in the parent-minor child relationship is not covered in this Code. The occurrence of domestic and family violence in that relationship is covered in Chapter 125, the Children's Code of this Tribe or through the juvenile and children's codes of the State of Wisconsin.</text>
+          <text><u>Exclusions</u>: Domestic and family violence in the parent-minor child relationship is not covered in this Code. The occurrence of domestic and family violence in that relationship is covered in <cite path="1|125">Chapter 125</cite>, the Children's Code of this Tribe or through the juvenile and children's codes of the State of Wisconsin.</text>
         </para>
       </para>
     </section>
@@ -7519,7 +7323,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>This privilege does not relieve a person from a duty imposed under the Indian Child Protection and Family Violence Act, codified as Title 18, United States Code §1167, or Wisconsin Statutes Chapter 48 to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Wisconsin Statutes Chapters 48 and 938 and in Tribal Court under Chapter 125, Children's Code.</text>
+          <text>This privilege does not relieve a person from a duty imposed under the Indian Child Protection and Family Violence Act, codified as Title 18, United States Code §1167, or Wisconsin Statutes <cite path="4|48">Chapter 48</cite> to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Wisconsin Statutes Chapters 48 and 938 and in Tribal Court under <cite path="1|125">Chapter 125</cite>, Children's Code.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -7558,13 +7362,11 @@
       <heading>Title, Statement of Purpose and Definitions</heading>
       <para>
         <num>A.</num>
-        <text>
-          <u>Title</u>. This Code may be cited as the "Disorderly Conduct Code."</text>
+        <text><u>Title</u>. This Code may be cited as the "Disorderly Conduct Code."</text>
       </para>
       <para>
         <num>B.</num>
-        <text>
-          <u>Statement of Purpose</u>. The purpose of this Code is to:</text>
+        <text><u>Statement of Purpose</u>. The purpose of this Code is to:</text>
         <para>
           <num>1.</num>
           <text>Eliminate offensive behaviors and maintain peace within the Bad River community;</text>
@@ -7580,13 +7382,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>
-          <u>Construction</u>.          <cite path="1|146">This Chapter</cite> shall be liberally construed to effect the purposes stated above and shall be interpreted to comport with the customs and traditions of this Tribe. If Tribal Law, customs, or traditions are inconclusive in any matter arising under <cite path="1|146">this chapter</cite>, then other Tribal Law, Federal Law, and as a last resort, the law of the State of Wisconsin, may be used for guidance.</text>
+        <text><u>Construction</u>. <cite path="1|146">This Chapter</cite> shall be liberally construed to effect the purposes stated above and shall be interpreted to comport with the customs and traditions of this Tribe. If Tribal Law, customs, or traditions are inconclusive in any matter arising under <cite path="1|146">this chapter</cite>, then other Tribal Law, Federal Law, and as a last resort, the law of the State of Wisconsin, may be used for guidance.</text>
       </para>
       <para>
         <num>D.</num>
-        <text>
-          <u>Definitions</u>. As used in <cite path="1|146">this Chapter</cite> the following terms shall have the meanings given below:</text>
+        <text><u>Definitions</u>. As used in <cite path="1|146">this Chapter</cite> the following terms shall have the meanings given below:</text>
         <para>
           <num>1.</num>
           <text>
@@ -7678,7 +7478,7 @@
     </section>
     <section>
       <num>146.03</num>
-      <heading>– Penalties</heading>
+      <heading>Penalties</heading>
       <text>Any person who violates <cite path="1|146">this Chapter</cite> shall be subject to the following:</text>
       <para>
         <num>A.</num>
@@ -7932,7 +7732,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>154</num>
-    <heading>. Rules of Evidence; Writings.</heading>
+    <heading>Rules of Evidence; Writings.</heading>
     <section>
       <num>154.1</num>
       <heading>Writings Used to Refresh Recollection</heading>
@@ -7957,8 +7757,7 @@
     <section>
       <num>154.3</num>
       <heading>Specific Writings</heading>
-      <text>Writings of the character set forth in <cite path="1|154|154.3">this section</cite> are admissible, subject to the authentication requirements of <cite path="1|154|154.4">Section 154.4</cite>.
-      </text>
+      <text>Writings of the character set forth in <cite path="1|154|154.3">this section</cite> are admissible, subject to the authentication requirements of <cite path="1|154|154.4">Section 154.4</cite>.</text>
       <para>
         <num>(a)</num>
         <text>Records of regularly conducted activity. A memorandum, report, record, or data compilation, in any form, of acts events, conditions, opinions, or diagnosis, made at or near the time by, or from information transmitted by, a person with knowledge, all in the course of a</text>
@@ -8093,8 +7892,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>Health care records. Records filed with the court pursuant to <cite path="1|154|154.3|(b)">Section 154.3(b)</cite>.
-          </text>
+          <text>Health care records. Records filed with the court pursuant to <cite path="1|154|154.3|(b)">Section 154.3(b)</cite>.</text>
         </para>
         <para>
           <num>(11)</num>
@@ -8167,8 +7965,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Any writing specified in <cite path="1|154|154.3">Section 154.3</cite>.
-          </text>
+          <text>Any writing specified in <cite path="1|154|154.3">Section 154.3</cite>.</text>
         </para>
       </para>
     </section>
@@ -8195,8 +7992,32 @@
     <section>
       <num>156.3</num>
       <heading>Legislative Facts</heading>
-      <text>
-        <cite path="1|156|156.3">This section</cite> does not control the taking of judicial notice of legislative facts.</text>
+      <text><cite path="1|156|156.3">This section</cite> does not control the taking of judicial notice of legislative facts.</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>157</num>
+    <heading>Powers of Tribal Wardens</heading>
+    <section>
+      <num>157.1</num>
+      <heading>Warrants and Process</heading>
+      <text>Any tribal warden may execute and serve warrants and processes issued by the tribal court in the same manner as any law enforcement officer of the State of Wisconsin may serve and execute such state warrants and processes under state law.</text>
+    </section>
+    <section>
+      <num>157.2</num>
+      <heading>Stop and Search</heading>
+      <text>For the purpose of enforcing any natural resource ordinance of the tribe or such other ordinance as the Tribal Council may direct, any tribal warden may stop and board any boat and stop any automobile, snowmobile, or other vehicle, if the tribal warden reasonably suspects there is a violation or breach of such ordinance. Any tribal warden may, with or without warrant, open, enter, and examine all buildings, camps, vessels or boats, wagons, trailers, automobiles or other vehicles snowmobiles, stages, tents, suit cases, valises, packages, and other receptacles and places where the tribal warden has probable cause to believe that game, fish, or other natural products of the Bad River Reservation taken or held in violation or breach of any tribal natural resource ordinance are to be found.</text>
+    </section>
+    <section>
+      <num>157.3</num>
+      <heading>Arrest of Members</heading>
+      <text>Any tribal warden may arrest, with or without a warrant, any tribal member detected in the actual violation, or whom such warden has probable cause to believe guilty of a violation of any tribal natural resource ordinance or such other tribal ordinance as the Tribal Council may direct, whether such violation is punishable by criminal penalties or civil remedial measures, and may take such member before the tribal court and make proper complaint.</text>
+    </section>
+    <section>
+      <num>157.4</num>
+      <heading>Civil Remedial Enforcement</heading>
+      <text>Any tribal warden may issue a citation to any member or non-member if the tribal warden reasonably believes that such person has breached a provision of any tribal natural resource ordinance or such other ordinance as the Tribal Council may direct, and may seize and hold any property authorized to be seized in such ordinance, pursuant to the civil remedial forfeiture provisions of the Tribal Court Code.</text>
     </section>
   </container>
 </container>
