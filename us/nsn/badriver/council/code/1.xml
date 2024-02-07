@@ -2127,7 +2127,7 @@
         <text>When the defendant has been served pursuant to <cite path="1|122|122.7">Section 122.7</cite> and does not waive lack of personal jurisdiction as a defense, service may be made as follows:</text>
         <para>
           <num>(1)</num>
-          <text>If the summons is returned more than 7 days prior to the return date with proof that the defendant cannot be served under <cite path="1|122|122.7|(1)">Section 122.7(1)</cite>, the plaintiff may, at least 7 days prior to the return date, affix a copy of the summons and complaint onto some part of the premises where it may be conveniently read. At least 5 days prior to the return date an additional copy of the summons and complaint shall also be mailed to the defendant at the last-known address, even if it is the premises which are the subject of the action.</text>
+          <text>If the summons is returned more than 7 days prior to the return date with proof that the defendant cannot be served under <cite path="1|122|122.7|(a)">Section 122.7(1)</cite>, the plaintiff may, at least 7 days prior to the return date, affix a copy of the summons and complaint onto some part of the premises where it may be conveniently read. At least 5 days prior to the return date an additional copy of the summons and complaint shall also be mailed to the defendant at the last-known address, even if it is the premises which are the subject of the action.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2199,7 +2199,7 @@
       <heading>Execution of Writ of Restitution</heading>
       <para>
         <num>(a)</num>
-        <text>All writs executed by a county sheriff shall be performed pursuant to <cite path="7|799|799.45">sec. 799.45</cite>, Wis. Stats.</text>
+        <text>All writs executed by a county sheriff shall be performed pursuant to sec. 799.45, Wis. Stats.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2256,7 +2256,7 @@
     <section>
       <num>124.27</num>
       <heading>Costs Recoverable</heading>
-      <text>Costs shall be taxed and recovered as set forth in <cite path="1|122|122.13">Section 122.13</cite>, plus fees charged to plaintiff by sheriff or other officer under <cite path="1|124|124.25|(5)">Section 124.25(5)</cite>.</text>
+      <text>Costs shall be taxed and recovered as set forth in <cite path="1|122|122.13">Section 122.13</cite>, plus fees charged to plaintiff by sheriff or other officer under <cite path="1|124|124.26|(5)">Section 124.25(5)</cite>.</text>
     </section>
     <section>
       <num>124.28</num>
@@ -2362,7 +2362,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>The child is habitually truant from school, and the school attendance officer attests that the activities required under <cite path="1|118|118.16|(5)">sec. 118.16(5)</cite>, Wis. Stats., or the applicable law in the jurisdiction if not in Wisconsin, have been completed.</text>
+          <text>The child is habitually truant from school, and the school attendance officer attests that the activities required under sec. 118.16(5), Wis. Stats., or the applicable law in the jurisdiction if not in Wisconsin, have been completed.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -2499,7 +2499,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>"Person with an interest in a child" means the child if 14 years of age or over, the child's parent, guardian, or a custodian, a member of the child's extended family, a law enforcement or conservation officer when jurisdiction under <cite path="1|124|124.05|(a)|(8)">Section 124.05(a)(8)</cite> is alleged, and the child welfare coordinator.</text>
+        <text>"Person with an interest in a child" means the child if 14 years of age or over, the child's parent, guardian, or a custodian, a member of the child's extended family, a law enforcement or conservation officer when jurisdiction under <cite path="1|125|125.05|(a)|(8)">Section 124.05(a)(8)</cite> is alleged, and the child welfare coordinator.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -3459,7 +3459,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>To receive as the Tribe's agent, notifications under <cite path="4|48|48.981">sec. 48.981</cite>, Wis. Stats., and to maintain the confidentiality of such records as required by law.</text>
+          <text>To receive as the Tribe's agent, notifications under sec. 48.981, Wis. Stats., and to maintain the confidentiality of such records as required by law.</text>
         </para>
       </para>
       <para>
@@ -4771,11 +4771,15 @@
         <text>Investments</text>
         <para>
           <num>(a)</num>
-          <text>The guardian of the estate may, without approval of the court, invest and reinvest the proceeds of sale of any guardianship assets and any other moneys in the guardian's possession in accordance with Wisconsin Statute <cite path="8|881">Chapter 881</cite>:</text>
+          <text>The guardian of the estate may, without approval of the court, invest and reinvest the proceeds of sale of any guardianship assets and any other moneys in the guardian's possession in accordance with Wisconsin Statute Chapter 881.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The guardian of the estate may, with the approval of the court, after such notice as the court directs, invest the proceeds of sale of any guardianship assets and any other moneys in the guardian's possession in such real or personal property as the court determines to be in the best interests of the guardianship estate, without regard to Wisconsin Statute <cite path="8|881">Chapter 881</cite>. (c) No guardian shall lend guardianship funds to himself or herself.</text>
+          <text>The guardian of the estate may, with the approval of the court, after such notice as the court directs, invest the proceeds of sale of any guardianship assets and any other moneys in the guardian's possession in such real or personal property as the court determines to be in the best interests of the guardianship estate, without regard to Wisconsin Statute Chapter 881.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No guardian shall lend guardianship funds to himself or herself.</text>
         </para>
       </para>
       <para>
@@ -4885,7 +4889,7 @@
       <heading>Guardian of the person of incompetent</heading>
       <para>
         <num>(1)</num>
-        <text>A guardian of the person of an incompetent, upon order of the court, may have custody of the person, may receive all notices on behalf of the person and may act in all proceedings as an advocate of the person, but may not have the power to bind the ward or the ward's property, or to represent the ward in any legal proceedings pertaining to the property, unless the guardian of the person is also the guardian of the property. A guardian of the person of an incompetent or a temporary guardian of the person of an incompetent may not make a permanent protective placement of the ward unless ordered by a court but may admit a ward to certain residential facilities or make an emergency protective placement under. The guardian of the person has the power to apply for placement and for commitment under Wisconsin Statute <cite path="5|51|51.20">Section 51.20</cite> or 51.45(13).</text>
+        <text>A guardian of the person of an incompetent, upon order of the court, may have custody of the person, may receive all notices on behalf of the person and may act in all proceedings as an advocate of the person, but may not have the power to bind the ward or the ward's property, or to represent the ward in any legal proceedings pertaining to the property, unless the guardian of the person is also the guardian of the property. A guardian of the person of an incompetent or a temporary guardian of the person of an incompetent may not make a permanent protective placement of the ward unless ordered by a court but may admit a ward to certain residential facilities or make an emergency protective placement under. The guardian of the person has the power to apply for placement and for commitment under Wisconsin Statute Section 51.20 or 51.45(13).</text>
       </para>
       <para>
         <num>(2)</num>
@@ -6772,7 +6776,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"School Attendance Officer" means an employee designated by a school board under the Bad River Tribal Constitution, Lac Courte Oreilles Tribal Constitution or Wis. Stat. <cite path="1|118|118.16">Sec. 118.16</cite> to deal with matters relating to school attendance and truancy.</text>
+        <text>"School Attendance Officer" means an employee designated by a school board under the Bad River Tribal Constitution, Lac Courte Oreilles Tribal Constitution or Wis. Stat. Sec. 118.16 to deal with matters relating to school attendance and truancy.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -6788,7 +6792,7 @@
       </para>
       <para>
         <num>(k)</num>
-        <text>"Truancy" means any absence of part or all one or more days from school during which the school attendance officer, or his agent, has not been notified of the legal cause of such absence by the person having the absent pupil under his or her control during non-school hours. "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the tribe's and state's attendance laws (Bad River Truancy Code <cite path="1|135|135.3">section 135.3</cite> and Wis. Stat. <cite path="1|118|118.5">Sec. 118.5</cite>).</text>
+        <text>"Truancy" means any absence of part or all one or more days from school during which the school attendance officer, or his agent, has not been notified of the legal cause of such absence by the person having the absent pupil under his or her control during non-school hours. "Truancy" also means intermittent attendance carried on for the purpose of defeating the intent of the tribe's and state's attendance laws (Bad River Truancy Code section 135.3 and Wis. Stat. Sec. 118.5).</text>
       </para>
       <para>
         <num>(l)</num>
@@ -6808,11 +6812,11 @@
       <heading>Compulsory School Attendance</heading>
       <para>
         <num>(a)</num>
-        <text>School Enrollment Required. Except as excused under a school policy governing school attendance or the state compulsory attendance law (Wis. Stat. <cite path="1|118|118.15">Sec. 118.15</cite>), any person having under their control a school aged child shall enroll the child in school.</text>
+        <text>School Enrollment Required. Except as excused under a school policy governing school attendance or the state compulsory attendance law (Wis. Stat. Sec. 118.15), any person having under their control a school aged child shall enroll the child in school.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><u>Requirement to Attend School</u>. Except as excused under a school policy governing school attendance or the state compulsory attendance law (Wis. Stat. <cite path="1|118|118.15">Sec. 118.15</cite>), any person having under their control a school aged child shall enroll the child in school.</text>
+        <text><u>Requirement to Attend School</u>. Except as excused under a school policy governing school attendance or the state compulsory attendance law (Wis. Stat. Sec. 118.15), any person having under their control a school aged child shall enroll the child in school.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -7324,7 +7328,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>This privilege does not relieve a person from a duty imposed under the Indian Child Protection and Family Violence Act, codified as Title 18, United States Code §1167, or Wisconsin Statutes <cite path="4|48">Chapter 48</cite> to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Wisconsin Statutes Chapters 48 and 938 and in Tribal Court under <cite path="1|125">Chapter 125</cite>, Children's Code.</text>
+          <text>This privilege does not relieve a person from a duty imposed under the Indian Child Protection and Family Violence Act, codified as Title 18, United States Code §1167, or Wisconsin Statutes Chapter 48 to report child abuse or neglect or from providing evidence about child abuse or neglect in State Court pursuant to proceedings under Wisconsin Statutes Chapters 48 and 938 and in Tribal Court under <cite path="1|125">Chapter 125</cite>, Children's Code.</text>
         </para>
         <para>
           <num>(4)</num>
