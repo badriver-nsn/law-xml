@@ -104,14 +104,14 @@
       <num>301.4</num>
       <heading>Season, Limits</heading>
       <text>Open seasons and limits are established as follows:</text>
-      <text>Open Season 		Limit</text>
+      <text>Open Season         Limit</text>
       <para>
         <num>(a)</num>
-        <text>Member	July 1 - January 31	None</text>
+        <text>Member    July 1 - January 31 None</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Non-member none 			N/A</text>
+        <text>Non-member none           N/A</text>
       </para>
     </section>
     <section>
@@ -2404,7 +2404,7 @@
       <para>
         <num>(m)</num>
         <text>"Tagging" is defined as affixing a tag to a fish and locking it securely.</text>
-        <text>(mn) 	"Trap net" means a device constructed of netting, which may employ wings or wings and leads, directing the movement of fish through a tunnel of netting into inner hearts or built-in fore bays wherein the fish are trapped by their own movement. Such nets may be referred to as shallow trap nets, submarine trap nets, or deep-water trap nets.</text>
+        <text>(mn)  "Trap net" means a device constructed of netting, which may employ wings or wings and leads, directing the movement of fish through a tunnel of netting into inner hearts or built-in fore bays wherein the fish are trapped by their own movement. Such nets may be referred to as shallow trap nets, submarine trap nets, or deep-water trap nets.</text>
         <text>This <cite path="3|325|325.2|(mn)">Section 325.2(mn)</cite> is added pursuant to Resolution No. 12-5-01-193</text>
       </para>
       <para>
@@ -3065,13 +3065,13 @@
       <text>Season 2:</text>
       <text>Unused effort from season 1</text>
       <text>--------------------------- x Season 1</text>
-      <text>1,000		CPE</text>
+      <text>1,000       CPE</text>
       <text>------------------------------------------- x 1,000 = Season 2 Effort Limitation</text>
       <text>Season 2 CPE</text>
       <text>Season 3:</text>
       <text>Unused effort from Season 2</text>
       <text>--------------------------- x Season 2</text>
-      <text>1,000		CPE</text>
+      <text>1,000       CPE</text>
       <text>------------------------------------------- x 1,000 = Season 3 Effort Limitation</text>
       <text>Season 3 CPE</text>
       <text>
@@ -3089,7 +3089,7 @@
       <text>Any unused portion of fish reserved for home use under <cite path="3|325|325.13">Section 325.13</cite> can be reallocated to the commercial component of the fishery no later than August 1. When and if home use fish are reallocated to the commercial fishery, a sum of 100 fish will be retained from the available balance for home use activity during the remainder of the quota year. The following formula will used to calculate effort limitations for utilization of reallocated home use fish.</text>
       <text>Available balance - 100</text>
       <text>------------------------------------------- x 1,000 = Effort Limitation for</text>
-      <text>Season 3 CPE			Reallocated Home Use Fish</text>
+      <text>Season 3 CPE            Reallocated Home Use Fish</text>
       <text>The effort limitation for reallocated home use fish will then be allocated among individual licensees.</text>
     </section>
   </container>
@@ -3161,7 +3161,7 @@
       <para>
         <num>(h)</num>
         <text>"Member" means a member of the Tribe.</text>
-        <text>(hn)	"Small boat" means a boat in operational condition.</text>
+        <text>(hn)  "Small boat" means a boat in operational condition.</text>
       </para>
       <para>
         <num>(i)</num>
@@ -3750,7 +3750,7 @@
           <text><u>Less than 36 feet long Buoyant Apparatus</u> is required when:</text>
           <text>Crew of 4 or more persons anywhere on Lake Superior, or</text>
           <text>Crew of or fewer persons and more than 12miles from the shore of the mainland or an island.</text>
-          <text><u>36 Feet or Longer	Buoyant Apparatus</u> is required when:</text>
+          <text><u>36 Feet or Longer    Buoyant Apparatus</u> is required when:</text>
           <text>Crew of or fewer persons and less than 12 miles from the shore of the mainland or an island.</text>
           <text><u>Inflatable Buoyant Apparatus</u> is required when:</text>
           <text>Crew of 4 or more persons anywhere on Lake Superior, or Crew of 3 or fewer persons and more than 12 miles from the shore of the mainland or an island.</text>
@@ -6170,9 +6170,10 @@
         <num>(f)</num>
         <text>Unless otherwise provided for in a written rental agreement or lease, the tenant of any single unit detached residence and the landlord of any multi-unit residence shall be responsible for the provision and maintenance of containers as specified in paragraph (c), above.</text>
       </para>
-      <text>
-        <strong>Section - 375.6 - Solid Waste Disposal</strong>
-      </text>
+    </section>
+    <section>
+      <num>375.6</num>
+      <heading>Solid Waste Disposal</heading>
       <para>
         <num>(a)</num>
         <text>No personal shall leave, deposit, or dump solid waste anywhere within the reservation except at designated solid waste collection sites. Sites shall be designated by the Tribal Council and locations of such shall be published and posted.</text>
