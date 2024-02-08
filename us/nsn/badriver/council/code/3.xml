@@ -774,37 +774,31 @@
     <heading>Setting of Nets</heading>
     <section>
       <num>3.09.010</num>
-      <heading>_</heading>
       <text>Any nets set in any river, stream, or other navigable water within the boundaries of the Bad River Reservation shall be sunk so as not to impede navigation.</text>
       <annotation type="Prior Codifications">§3.09.010 was formerly codified as 315.1</annotation>
     </section>
     <section>
       <num>3.09.020</num>
-      <heading>_</heading>
       <text>Any net in river, stream, or other navigable water within the boundaries of the Bad River Reservation shall be marked with the name of the owner and the words "Bad River" or an abbreviation thereof, indicating the tribal membership of the owner. Such marking shall be of an indelible nature and shall be placed on a red or white buoy, jug or other floating device.</text>
       <annotation type="Prior Codifications">§3.09.020 was formerly codified as 315.2</annotation>
     </section>
     <section>
       <num>3.09.030</num>
-      <heading>_</heading>
       <text>Any person who sets a net in any river, stream, or other navigable water within the Bad River Reservation shall check the net and remove all fish therefrom at least once within each twenty-four hour period.</text>
       <annotation type="Prior Codifications">§3.09.030 was formerly codified as 315.3</annotation>
     </section>
     <section>
       <num>3.09.040</num>
-      <heading>_</heading>
       <text>Except as provided in <cite path="§3.09.050">Section 3.09.050</cite>, no person shall remove fish from the net of another without authorization by the owner of the net. Any owner giving authorization shall so notify the Bad River Conservation Office.</text>
       <annotation type="Prior Codifications">§3.09.040 was formerly codified as 315.4</annotation>
     </section>
     <section>
       <num>3.09.050</num>
-      <heading>_</heading>
       <text>Tribal conservation wardens may inspect any net found in any river, stream, or other navigable waters within the Bad River Reservation. Any net which a warden reasonably suspects to be in violation of <cite path="§3.09.010">Section 3.09.010</cite>, 315.2, or 315.3 of this ordinance may be immediately seized, including any fish therein.</text>
       <annotation type="Prior Codifications">§3.09.050 was formerly codified as 315.5</annotation>
     </section>
     <section>
       <num>3.09.060</num>
-      <heading>_</heading>
       <text>For a first violation of Sections 315.1, 315.2, or 315.3 of this ordinance, a civil forfeiture not to exceed $50.00 may be assessed, and the net used forfeited. For a second violation and any violation subsequent thereto of Sections 315.1, 2 or 3, a civil forfeiture not to exceed $100.00 may be assessed and the net used forfeited. For a violation of <cite path="§3.09.040">Section 3.09.040</cite> of this ordinance a civil forfeiture not to exceed $100.00 may be assessed. For a second violation and any violation subsequent thereto of <cite path="§3.09.040">Section 3.09.040</cite> a civil forfeiture of $200.00 may be assessed. In addition to the forfeiture assessed for a violation of <cite path="§3.09.040">Section 3.09.040</cite>, the court may order restitution made to the person whose net was subject to the unauthorized taking.</text>
       <annotation type="Prior Codifications">§3.09.060 was formerly codified as 315.6</annotation>
     </section>
@@ -2098,7 +2092,10 @@
       <num>3.12.030</num>
       <heading>Purpose</heading>
       <text>Protecting the Reservation Waters is a primary goal of the Tribe. Water pollution endangers the health and welfare of Tribal members and residents of the Reservation. This Code establishes procedures and standards for the review of applications for Tribal Water Quality Certifications under CWA Section 401(a)(1), Tribal Water Quality Reviews under CWA Section 401(a)(2), and Tribal Water Quality Reviews of proposed federal and state permits that may affect the waters of the Bad River Reservation. This Code also establishes procedures for the Tribe's review of federal and state general permits for their consistency with the Tribe's Water Quality Standards.</text>
-      <annotation type="Prior Codifications">§3.12.030 was formerly codified as 324.3</annotation>
+      <annotations>
+        <annotation type="Prior Codifications">§3.12.030 was formerly codified as 324.3</annotation>
+        <annotation type="Commentary">This Code does not address the review of proposed state licenses or permits for discharges on the Bad River Reservation because the state does not have the legal authority to issue licenses or permits on the Bad River Reservation.</annotation>
+      </annotations>
     </section>
     <section>
       <num>3.12.040</num>
@@ -4858,7 +4855,7 @@
       <num>3.20.010</num>
       <heading>Purpose</heading>
       <text>The purpose of <cite path="3|3.20">this chapter</cite> is to provide for snowmobile owner and operator safety, safety of community members, wildlife and property, by the setting of standards for safe operation of snowmobiles operated by any person, both member and non-member, and identification by requiring tribal registration of all snowmobiles operated by tribal members within the Bad River Reservation.</text>
-      <annotation type="Prior Codifications">§3.20.010 was formerly codified as 351.1.1</annotation>
+      <annotation type="Prior Codifications">§3.20.010 was formerly codified as 351.1</annotation>
     </section>
     <section>
       <num>3.20.020</num>
@@ -5328,19 +5325,16 @@
     </section>
     <section>
       <num>3.20.250</num>
-      <heading>_</heading>
       <text>The Tribal Council and any Tribal entity shall not be liable for any injury suffered in connection with a race, derby, trail, or route under <cite path="§3.20.250">this section</cite>. The Tribal entity hosting an event shall post the provisions of this paragraph in a conspicuous place, readily accessible to all contestants and spectators, and shall assist in locating and identifying persons responsible for injuries that may occur.</text>
       <annotation type="Prior Codifications">§3.20.250 was formerly codified as 351.5.4</annotation>
     </section>
     <section>
       <num>3.20.260</num>
-      <heading>_</heading>
       <text>Sub<cite path="§3.20.150|(c)">Section 3.20.150(c)</cite> does not apply to snowmobiles competing in a sanctioned race or derby.</text>
       <annotation type="Prior Codifications">§3.20.260 was formerly codified as 351.5.5</annotation>
     </section>
     <section>
       <num>3.20.270</num>
-      <heading>_</heading>
       <text>All snowmobile competing in a sanctioned race or derby shall be equipped with a device wired into the motor's electrical system that will shut off the motor if the operator falls from the snowmobile or otherwise leaves the operator's position. The device shall be capable of being attached to the body of the operator and shall be so attached when the snowmobile is being operated.</text>
       <annotation type="Prior Codifications">§3.20.270 was formerly codified as 351.5.6</annotation>
     </section>
@@ -5355,7 +5349,7 @@
         <num>(b)</num>
         <text>No person operating a snowmobile shall refuse to stop after being requested or signaled to do so by an officer of any Department listed in <cite path="§3.20.280|(a)">Section 3.20.280(a)</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§3.20.280 was formerly codified as 351.6.1</annotation>
+      <annotation type="Prior Codifications">§3.20.280 was formerly codified as 351.6</annotation>
     </section>
     <section>
       <num>3.20.290</num>
@@ -5380,13 +5374,13 @@
           <text>Is a party to a conspiracy with another to commit it or advises, hires or counsels or otherwise procures another to commit it.</text>
         </para>
       </para>
-      <annotation type="Prior Codifications">§3.20.290 was formerly codified as 351.7.1</annotation>
+      <annotation type="Prior Codifications">§3.20.290 was formerly codified as 351.7</annotation>
     </section>
     <section>
       <num>3.20.300</num>
       <heading>Adjudication</heading>
       <text>Any violation of <cite path="3|3.20">this chapter</cite> shall be prosecuted in Tribal Court. Violations of this ordinance shall be adjudicated in the Bad River Tribal Court pursuant to the rules and procedures promulgated in the Bad River Tribal Court Code.</text>
-      <annotation type="Prior Codifications">§3.20.300 was formerly codified as 351.8.1</annotation>
+      <annotation type="Prior Codifications">§3.20.300 was formerly codified as 351.8</annotation>
     </section>
     <section>
       <num>3.20.310</num>
@@ -5502,7 +5496,7 @@
         <num>(w)</num>
         <text>"Tribal Court" shall mean the court of the Bad River Band of the Lake Superior Tribe of Chippewa Indians and its appellate court.</text>
       </para>
-      <annotation type="Prior Codifications">§3.20.320 was formerly codified as 351.10.1</annotation>
+      <annotation type="Prior Codifications">§3.20.320 was formerly codified as 351.10</annotation>
     </section>
   </container>
   <container>
@@ -5786,7 +5780,6 @@
     </section>
     <section>
       <num>3.21.150</num>
-      <heading>_</heading>
       <text>Go-Carts: Go-Carts shall only be operated on specifically designated go-cart recreational facilities or on fee land owned or managed by the operator or his or her immediate family.</text>
       <annotation type="Prior Codifications">§3.21.150 was formerly codified as 352.3.5</annotation>
     </section>
@@ -5871,7 +5864,7 @@
       <num>3.21.200</num>
       <heading>Right of Way</heading>
       <text>The operator of an ATV shall slow the vehicle to a speed not to exceed 10 miles per hour and yield the right-of-way when traveling within 100 feet of a person who is not in or on a ATV.</text>
-      <annotation type="Prior Codifications">§3.21.200 was formerly codified as 352.6.1</annotation>
+      <annotation type="Prior Codifications">§3.21.200 was formerly codified as 352.6</annotation>
     </section>
     <section>
       <num>3.21.210</num>
@@ -5911,17 +5904,16 @@
         <num>(b)</num>
         <text>No person operating an ATV shall refuse to stop after being requested or signaled to do so by an officer of any department listed in <cite path="§3.21.230|(a)">Section 3.21.230(a)</cite>.</text>
       </para>
-      <annotation type="Prior Codifications">§3.21.230 was formerly codified as 352.8.1</annotation>
+      <annotation type="Prior Codifications">§3.21.230 was formerly codified as 352.8</annotation>
     </section>
     <section>
       <num>3.21.240</num>
       <heading>Adjudication</heading>
       <text>Violations of this ordinance shall be adjudicated in the Bad River Tribal Court pursuant to the rules and procedures promulgated in the Bad River Tribal Court Code.</text>
-      <annotation type="Prior Codifications">§3.21.240 was formerly codified as 352.9.1</annotation>
+      <annotation type="Prior Codifications">§3.21.240 was formerly codified as 352.9</annotation>
     </section>
     <section>
       <num>3.21.250</num>
-      <heading>_</heading>
       <text>
         <strong>The penalties for violations of any provision of <cite path="3|3.21">this chapter</cite> shall be as follows:</strong>
       </text>
@@ -5941,13 +5933,11 @@
     </section>
     <section>
       <num>3.21.260</num>
-      <heading>_</heading>
       <text>Any ATV or other equipment used in violation of <cite path="3|3.21">this chapter</cite> may be seized by any Officer authorized to enforce this ordinance and ordered forfeited by the Tribal Court.</text>
       <annotation type="Prior Codifications">§3.21.260 was formerly codified as 352.10.2</annotation>
     </section>
     <section>
       <num>3.21.270</num>
-      <heading>_</heading>
       <text>Neither the imposition of a penalty as provided for above, nor satisfaction of the terms of such penalty, shall constitute a waiver or release from any additional civil or criminal liabilities, including but not limited to liability for damages to natural resources.</text>
       <annotation type="Prior Codifications">§3.21.270 was formerly codified as 352.10.3</annotation>
     </section>
@@ -5967,11 +5957,10 @@
       <num>3.21.300</num>
       <heading>Natural Resource/Conservation Code Ordinance</heading>
       <text>This shall be considered a natural resources/conservation code ordinance for the definition of such under the Tribal Code.</text>
-      <annotation type="Prior Codifications">§3.21.300 was formerly codified as 352.12.1</annotation>
+      <annotation type="Prior Codifications">§3.21.300 was formerly codified as 352.12</annotation>
     </section>
     <section>
       <num>3.21.310</num>
-      <heading>_</heading>
       <text>
         <strong>Terms as used in <cite path="3|3.21">this chapter</cite> are defined as follows:</strong>
       </text>

@@ -16,7 +16,7 @@
     <history-start>2023-03-22</history-start>
   </meta>
   <xi:include href="./us/nsn/badriver/council/code/index.xml"/>
-  <collection name="us/nsn/tmchippewa/council/resolutions">
+  <collection name="us/nsn/badriver/council/resolutions">
     <heading>Council Resolutions</heading>
     <xi:include href="./us/nsn/badriver/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/badriver/council/resolutions/2019/index.xml"/>
