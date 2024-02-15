@@ -15,6 +15,12 @@
     </canonical-urls>
     <history-start>2023-03-22</history-start>
   </meta>
+  <collection name="us/nsn/badriver/council/constitution-and-bylaws">
+    <heading>Constitution and Bylaws</heading>
+    <xi:include href="./us/nsn/badriver/council/constitution.xml"/>
+    <xi:include href="./us/nsn/badriver/council/bylaws.xml"/>
+  </collection>
+  <xi:include href="./us/nsn/badriver/council/charter.xml"/>
   <xi:include href="./us/nsn/badriver/council/code/index.xml"/>
   <collection name="us/nsn/badriver/council/resolutions">
     <heading>Council Resolutions</heading>
