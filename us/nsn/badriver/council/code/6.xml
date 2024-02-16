@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Bad River Band of the Lake Superior Chippewa Indians Tribal Code">
+  <prefix>Title</prefix>
+  <num>6</num>
+  <heading>Membership</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.01</num>
+    <heading>Membership</heading>
+    <section>
+        <num>6.01.010</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.010 was formerly codified as 601.01</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.020</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.020 was formerly codified as 601.02</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.030</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.030 was formerly codified as 601.03</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.040</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.040 was formerly codified as 601.04</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 5-10-00-413"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.050</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.050 was formerly codified as 601.05</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.060</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.060 was formerly codified as 601.06</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.070</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.070 was formerly codified as 601.07</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.080</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.080 was formerly codified as 601.08</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.090</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.090 was formerly codified as 601.09</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+    <section>
+        <num>6.01.100</num>
+        <heading></heading>
+        <annotations>
+            <annotation type="Prior Codifications">§6.01.100 was formerly codified as 601.10</annotation>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-28-78-19"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 8-13-79-161"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 6-1-83-39"/>
+            <annotation type="History" doc="Bad River Band of the Lake Superior Chippewa Indians Res. No. 12-5-90-154"/>
+        </annotations>
+    </section>
+  </container>
+</container>
