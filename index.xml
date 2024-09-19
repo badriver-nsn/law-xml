@@ -11,7 +11,7 @@
       <html-bulk>https://github.com/badriver-nsn/law-html</html-bulk>
       <static-assets>https://github.com/badriver-nsn/law-static-assets</static-assets>
       <law-git>https://github.com/badriver-nsn/law.git</law-git>
-      <html/>
+      <html>https://law.badriver-nsn.gov</html>
     </canonical-urls>
     <history-start>2023-03-22</history-start>
   </meta>
